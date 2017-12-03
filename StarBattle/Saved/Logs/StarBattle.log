@@ -1,0 +1,1483 @@
+﻿Log file open, 12/03/17 04:01:46
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: StarBattle
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(72685853) SRandInit(72685853).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305683
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: D:/Programas/programacion/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.03-03.01.47:438][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-03.01.47:438][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.03-03.01.47:446][  0]LogInit: Computer: ADOLFO-PC
+[2017.12.03-03.01.47:446][  0]LogInit: User: Adolfo
+[2017.12.03-03.01.47:446][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.03-03.01.47:446][  0]LogInit: High frequency timer resolution =3.215400 MHz
+[2017.12.03-03.01.47:446][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.12.03-03.01.47:446][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.03-03.01.47:446][  0]LogMemory: Process Physical Memory: 278.74 MB used, 278.74 MB peak
+[2017.12.03-03.01.47:446][  0]LogMemory: Process Virtual Memory: 276.55 MB used, 276.55 MB peak
+[2017.12.03-03.01.47:446][  0]LogMemory: Physical Memory: 3730.45 MB used,  4442.79 MB free, 8173.23 MB total
+[2017.12.03-03.01.47:446][  0]LogMemory: Virtual Memory: 652.30 MB used,  4442.79 MB free, 8388608.00 MB total
+[2017.12.03-03.01.47:592][  0]LogInit: Overriding language with editor language configuration option (en-US).
+[2017.12.03-03.01.47:592][  0]LogInit: Overriding locale with editor locale configuration option (en-US).
+[2017.12.03-03.01.47:595][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.03-03.01.48:337][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.03-03.01.48:352][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 560 Ti' (Feature Level 11_0)
+[2017.12.03-03.01.48:352][  0]LogD3D11RHI:       2000/0/3830 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.03-03.01.48:352][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.03-03.01.48:356][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.03-03.01.48:356][  0]LogD3D11RHI:     GPU DeviceId: 0x1200 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.03-03.01.48:356][  0]LogWindows: EnumDisplayDevices:
+[2017.12.03-03.01.48:357][  0]LogWindows:    0. 'NVIDIA GeForce GTX 560 Ti' (P:1 D:1)
+[2017.12.03-03.01.48:357][  0]LogWindows:    1. 'NVIDIA GeForce GTX 560 Ti' (P:0 D:0)
+[2017.12.03-03.01.48:357][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2017.12.03-03.01.48:357][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.12.03-03.01.48:357][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.12.03-03.01.48:357][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2017.12.03-03.01.48:357][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 560 Ti
+[2017.12.03-03.01.48:357][  0]LogD3D11RHI:   Driver Version: 382.53 (internal:22.21.13.8253, unified:382.53)
+[2017.12.03-03.01.48:357][  0]LogD3D11RHI:      Driver Date: 6-7-2017
+[2017.12.03-03.01.48:357][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.03-03.01.48:366][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.12.03-03.01.48:366][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.03-03.01.48:382][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.03-03.01.48:384][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../UEPROJECT/06_StarBattle/StarBattle/Intermediate/Shaders/WorkingDirectory/4992/).
+[2017.12.03-03.01.48:384][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adolfo/AppData/Local/Temp/UnrealShaderWorkingDir/9D07F3C94CAF68CC4FEFB8BADAECFC1A/'.
+[2017.12.03-03.01.48:384][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.03-03.01.49:354][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.03-03.01.49:407][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.03-03.01.49:458][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.03-03.01.49:513][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.03-03.01.49:566][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.03-03.01.49:619][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.03-03.01.49:671][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.03-03.01.49:725][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.03-03.01.49:770][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.03-03.01.49:821][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.03-03.01.49:872][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.03-03.01.49:925][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.03-03.01.49:976][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.03-03.01.50:028][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.03-03.01.50:078][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.03-03.01.50:179][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.03-03.01.50:179][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.03-03.01.50:216][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.03-03.01.50:303][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.03-03.01.50:329][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.03-03.01.50:379][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.03-03.01.50:429][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.03-03.01.50:478][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.03-03.01.50:529][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.03-03.01.50:529][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.03-03.01.50:962][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.03-03.01.51:074][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/Adolfo/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.03-03.01.51:074][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adolfo/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.03-03.01.51:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UEPROJECT/06_StarBattle/StarBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.03-03.01.51:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.03-03.01.51:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UEPROJECT/06_StarBattle/StarBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.03-03.01.51:074][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.03-03.01.51:095][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.03-03.01.51:106][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adolfo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.03-03.01.51:118][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.03-03.01.51:118][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.03-03.01.51:119][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-03.01.51:119][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.03-03.01.51:439][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.12.03-03.01.51:636][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.03-03.01.51:641][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.03-03.01.52:053][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.03-03.01.52:093][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.03-03.01.52:093][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.03-03.01.52:093][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.03-03.01.52:093][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.03-03.01.52:093][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.03-03.01.52:538][  0]LogNetVersion: StarBattle , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3140974420)
+[2017.12.03-03.01.52:796][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.065512 seconds
+[2017.12.03-03.01.52:803][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.03-03.01.52:803][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.03-03.01.52:803][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.03-03.01.52:853][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.03-03.01.55:710][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.03-03.01.55:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.03-03.01.56:707][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.03-03.01.57:461][  0]SourceControl: Source control is disabled
+[2017.12.03-03.01.57:461][  0]SourceControl: Source control is disabled
+[2017.12.03-03.01.57:522][  0]SourceControl: Source control is disabled
+[2017.12.03-03.01.57:594][  0]SourceControl: Source control is disabled
+[2017.12.03-03.01.58:221][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.03-03.01.58:477][  0]LogOcInput: OculusInput pre-init called
+[2017.12.03-03.01.58:755][  0]LogEngine: Initializing Engine...
+[2017.12.03-03.01.58:757][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.03-03.01.59:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.03-03.01.59:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.03-03.01.59:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.03-03.01.59:185][  0]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.03-03.01.59:229][  0]LogInit: FAudioDevice initialized.
+[2017.12.03-03.01.59:403][  0]LogDerivedDataCache: Saved boot cache 0.17s 93MB C:/Users/Adolfo/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.03-03.01.59:416][  0]LogInit: Texture streaming: Enabled
+[2017.12.03-03.01.59:507][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.03-03.01.59:716][  0]LogInit: Transaction tracking system initialized
+[2017.12.03-03.02.00:007][  0]BlueprintLog: New page: Editor Load
+[2017.12.03-03.02.00:890][  0]LocalizationService: Localization service is disabled
+[2017.12.03-03.02.01:544][  0]LogConsoleResponse: Display: 
+[2017.12.03-03.02.01:874][  0]LogFileCache: Scanning file cache for directory 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Content/' took 0.01s
+[2017.12.03-03.02.01:874][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.03-03.02.01:874][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.03-03.02.01:874][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.03-03.02.02:956][  0]SourceControl: Source control is disabled
+[2017.12.03-03.02.02:956][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.03-03.02.02:957][  0]LightingResults: New page: Lighting Build
+[2017.12.03-03.02.02:995][  0]MapCheck: New page: Map Check
+[2017.12.03-03.02.02:995][  0]LightingResults: New page: Lighting Build
+[2017.12.03-03.02.03:233][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.12.03-03.02.03:238][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.03-03.02.03:253][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.03-03.02.03:303][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.26ms to complete.
+[2017.12.03-03.02.03:303][  0]LogFileHelpers: Loading map 'Template_Default' took 0.347
+[2017.12.03-03.02.03:478][  0]LogCollectionManager: Loaded 0 collections in 0.001730 seconds
+[2017.12.03-03.02.03:560][  0]LogFileCache: Scanning file cache for directory 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Saved/Collections/' took 0.01s
+[2017.12.03-03.02.03:560][  0]LogFileCache: Scanning file cache for directory 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Content/Developers/Adolfo/Collections/' took 0.01s
+[2017.12.03-03.02.03:560][  0]LogFileCache: Scanning file cache for directory 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Content/Collections/' took 0.01s
+[2017.12.03-03.02.03:560][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.03-03.02.03:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2388 classes and 504 folders.
+[2017.12.03-03.02.03:633][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2017.12.03-03.02.03:697][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2017.12.03-03.02.03:768][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-03.02.03:773][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.03-03.02.03:776][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.03-03.02.03:912][  0]LogRenderer: Reallocating scene render targets to support 1168x604 Format 10 NumSamples 1 (Frame:1).
+[2017.12.03-03.02.04:180][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2017.12.03-03.02.04:180][  0]LogLoad: (Engine Initialization) Total time: 19.38 seconds
+[2017.12.03-03.02.04:180][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.03-03.02.04:180][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.03-03.02.04:540][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.03-03.02.04:602][  1]LogAssetRegistry: Asset discovery search completed in 13.1828 seconds
+[2017.12.03-03.02.04:604][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.03-03.02.04:604][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2017.12.03-03.03.01:370][268]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-03.03.02:003][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Battleground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-03.03.02:097][268]LogSavePackage: Save=77.65ms
+[2017.12.03-03.03.02:098][268]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BattlegroundE6556DF4431E708D37BD119750A460FD.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Battleground.umap'
+[2017.12.03-03.03.02:099][268]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Battleground.umap
+[2017.12.03-03.03.02:142][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Battleground_BuiltData.uasset" SILENT=true
+[2017.12.03-03.03.02:181][268]LogSavePackage: Save=37.65ms
+[2017.12.03-03.03.02:181][268]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Battleground_BuiltData9782CAFA4197FA5D4A9AB8BDAB64EBCC.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Battleground_BuiltData.uasset'
+[2017.12.03-03.03.02:182][268]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Battleground_BuiltData.uasset
+[2017.12.03-03.03.02:185][268]LogFileHelpers: Saving map 'Battleground' took 0.873
+[2017.12.03-03.03.02:334][273]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-03.03.57:930][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battleground_BuiltData" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground_BuiltData.uasset" SILENT=true
+[2017.12.03-03.03.58:013][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battleground" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-03.03.58:051][776]LogSavePackage: Save=27.60ms
+[2017.12.03-03.03.58:051][776]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Battleground5939475E4ED98100AF6B9D95ADB385F9.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground.umap'
+[2017.12.03-03.03.58:070][776]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground.umap
+[2017.12.03-03.03.58:077][776]LogFileHelpers: Saving map 'Battleground' took 0.141
+[2017.12.03-03.03.58:082][776]EditorErrors: New page: Save Output
+[2017.12.03-03.03.58:082][776]EditorErrors: Warning: Missing filename
+[2017.12.03-03.05.08:237][477]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Descargas Chrome/TIE-fighter.obj)
+[2017.12.03-03.05.08:374][477]LogFbx: Loading FBX Scene from ../../../../../../Descargas Chrome/TIE-fighter.obj
+[2017.12.03-03.05.08:959][477]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-03.05.08:962][477]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.03-03.05.28:387][477]LogFbx: Loading FBX Scene from ../../../../../../Descargas Chrome/TIE-fighter.obj
+[2017.12.03-03.05.28:964][477]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-03.05.28:981][477]LogLinker: Can't find file '/Game/Models/Bak_HatcMat'
+[2017.12.03-03.05.28:981][477]LogLinker: Can't find file '/Game/Models/Bak_HatcMat'
+[2017.12.03-03.05.29:009][477]LogMaterial: Missing cached shader map for material Bak_HatcMat, compiling. 
+[2017.12.03-03.05.29:229][477]LogStaticMesh: Building static mesh TIE-fighter_Bak_Hatc...
+[2017.12.03-03.05.29:286][477]LogStaticMesh: Built static mesh [0.06s] /Game/Models/TIE-fighter_Bak_Hatc.TIE-fighter_Bak_Hatc
+[2017.12.03-03.05.29:370][477]LogStaticMesh: Warning: TIE-fighter_Bak_Hatc has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.29:437][477]LogLinker: Can't find file '/Game/Models/Bak_HdetMat'
+[2017.12.03-03.05.29:437][477]LogLinker: Can't find file '/Game/Models/Bak_HdetMat'
+[2017.12.03-03.05.29:449][477]LogMaterial: Missing cached shader map for material Bak_HdetMat, compiling. 
+[2017.12.03-03.05.29:519][477]LogStaticMesh: Building static mesh TIE-fighter_Bak_Hdet...
+[2017.12.03-03.05.29:520][477]LogStaticMesh: Built static mesh [0.05s] /Game/Models/TIE-fighter_Bak_Hdet.TIE-fighter_Bak_Hdet
+[2017.12.03-03.05.29:553][477]LogLinker: Can't find file '/Game/Models/BakHglasMat'
+[2017.12.03-03.05.29:553][477]LogLinker: Can't find file '/Game/Models/BakHglasMat'
+[2017.12.03-03.05.29:605][477]LogMaterial: Missing cached shader map for material BakHglasMat, compiling. 
+[2017.12.03-03.05.29:637][477]LogStaticMesh: Building static mesh TIE-fighter_BakHglas...
+[2017.12.03-03.05.29:637][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_BakHglas.TIE-fighter_BakHglas
+[2017.12.03-03.05.29:660][477]LogLinker: Can't find file '/Game/Models/BakHringMat'
+[2017.12.03-03.05.29:660][477]LogLinker: Can't find file '/Game/Models/BakHringMat'
+[2017.12.03-03.05.29:664][477]LogMaterial: Missing cached shader map for material BakHringMat, compiling. 
+[2017.12.03-03.05.29:681][477]LogStaticMesh: Building static mesh TIE-fighter_BakHring...
+[2017.12.03-03.05.29:683][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_BakHring.TIE-fighter_BakHring
+[2017.12.03-03.05.29:726][477]LogLinker: Can't find file '/Game/Models/BakPanlsMat'
+[2017.12.03-03.05.29:726][477]LogLinker: Can't find file '/Game/Models/BakPanlsMat'
+[2017.12.03-03.05.29:752][477]LogMaterial: Missing cached shader map for material BakPanlsMat, compiling. 
+[2017.12.03-03.05.29:791][477]LogStaticMesh: Building static mesh TIE-fighter_BakPanls...
+[2017.12.03-03.05.29:793][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_BakPanls.TIE-fighter_BakPanls
+[2017.12.03-03.05.29:833][477]LogLinker: Can't find file '/Game/Models/BulkheadMat'
+[2017.12.03-03.05.29:833][477]LogLinker: Can't find file '/Game/Models/BulkheadMat'
+[2017.12.03-03.05.29:862][477]LogMaterial: Missing cached shader map for material BulkheadMat, compiling. 
+[2017.12.03-03.05.29:895][477]LogStaticMesh: Building static mesh TIE-fighter_Bulkhead...
+[2017.12.03-03.05.29:911][477]LogStaticMesh: Built static mesh [0.03s] /Game/Models/TIE-fighter_Bulkhead.TIE-fighter_Bulkhead
+[2017.12.03-03.05.29:944][477]LogStaticMesh: Warning: TIE-fighter_Bulkhead has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.29:957][477]LogLinker: Can't find file '/Game/Models/CanopyMat'
+[2017.12.03-03.05.29:957][477]LogLinker: Can't find file '/Game/Models/CanopyMat'
+[2017.12.03-03.05.29:988][477]LogMaterial: Missing cached shader map for material CanopyMat, compiling. 
+[2017.12.03-03.05.30:026][477]LogStaticMesh: Building static mesh TIE-fighter_Canopy...
+[2017.12.03-03.05.30:056][477]LogStaticMesh: Built static mesh [0.05s] /Game/Models/TIE-fighter_Canopy.TIE-fighter_Canopy
+[2017.12.03-03.05.30:061][477]LogStaticMesh: Warning: TIE-fighter_Canopy has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.30:082][477]LogLinker: Can't find file '/Game/Models/CanoRingMat'
+[2017.12.03-03.05.30:086][477]LogLinker: Can't find file '/Game/Models/CanoRingMat'
+[2017.12.03-03.05.30:099][477]LogMaterial: Missing cached shader map for material CanoRingMat, compiling. 
+[2017.12.03-03.05.30:150][477]LogStaticMesh: Building static mesh TIE-fighter_CanoRing...
+[2017.12.03-03.05.30:152][477]LogStaticMesh: Built static mesh [0.03s] /Game/Models/TIE-fighter_CanoRing.TIE-fighter_CanoRing
+[2017.12.03-03.05.30:164][477]LogLinker: Can't find file '/Game/Models/EnginGloMat'
+[2017.12.03-03.05.30:164][477]LogLinker: Can't find file '/Game/Models/EnginGloMat'
+[2017.12.03-03.05.30:168][477]LogMaterial: Missing cached shader map for material EnginGloMat, compiling. 
+[2017.12.03-03.05.30:186][477]LogStaticMesh: Building static mesh TIE-fighter_EnginGlo...
+[2017.12.03-03.05.30:186][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_EnginGlo.TIE-fighter_EnginGlo
+[2017.12.03-03.05.30:213][477]LogLinker: Can't find file '/Game/Models/Hinge_USMat'
+[2017.12.03-03.05.30:213][477]LogLinker: Can't find file '/Game/Models/Hinge_USMat'
+[2017.12.03-03.05.30:217][477]LogMaterial: Missing cached shader map for material Hinge_USMat, compiling. 
+[2017.12.03-03.05.30:261][477]LogStaticMesh: Building static mesh TIE-fighter_Hinge_US...
+[2017.12.03-03.05.30:267][477]LogStaticMesh: Built static mesh [0.03s] /Game/Models/TIE-fighter_Hinge_US.TIE-fighter_Hinge_US
+[2017.12.03-03.05.30:272][477]LogLinker: Can't find file '/Game/Models/HulBottmMat'
+[2017.12.03-03.05.30:273][477]LogLinker: Can't find file '/Game/Models/HulBottmMat'
+[2017.12.03-03.05.30:294][477]LogMaterial: Missing cached shader map for material HulBottmMat, compiling. 
+[2017.12.03-03.05.30:330][477]LogStaticMesh: Building static mesh TIE-fighter_HulBottm...
+[2017.12.03-03.05.30:347][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_HulBottm.TIE-fighter_HulBottm
+[2017.12.03-03.05.30:364][477]LogStaticMesh: Warning: TIE-fighter_HulBottm has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.30:373][477]LogLinker: Can't find file '/Game/Models/HulPlatsMat'
+[2017.12.03-03.05.30:373][477]LogLinker: Can't find file '/Game/Models/HulPlatsMat'
+[2017.12.03-03.05.30:377][477]LogMaterial: Missing cached shader map for material HulPlatsMat, compiling. 
+[2017.12.03-03.05.30:395][477]LogStaticMesh: Building static mesh TIE-fighter_HulPlats...
+[2017.12.03-03.05.30:401][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_HulPlats.TIE-fighter_HulPlats
+[2017.12.03-03.05.30:423][477]LogLinker: Can't find file '/Game/Models/HulTensnMat'
+[2017.12.03-03.05.30:424][477]LogLinker: Can't find file '/Game/Models/HulTensnMat'
+[2017.12.03-03.05.30:427][477]LogMaterial: Missing cached shader map for material HulTensnMat, compiling. 
+[2017.12.03-03.05.30:461][477]LogStaticMesh: Building static mesh TIE-fighter_HulTensn...
+[2017.12.03-03.05.30:471][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_HulTensn.TIE-fighter_HulTensn
+[2017.12.03-03.05.30:551][477]LogLinker: Can't find file '/Game/Models/L_BootMat'
+[2017.12.03-03.05.30:551][477]LogLinker: Can't find file '/Game/Models/L_BootMat'
+[2017.12.03-03.05.30:576][477]LogMaterial: Missing cached shader map for material L_BootMat, compiling. 
+[2017.12.03-03.05.30:620][477]LogStaticMesh: Building static mesh TIE-fighter_L_Boot...
+[2017.12.03-03.05.30:639][477]LogStaticMesh: Built static mesh [0.04s] /Game/Models/TIE-fighter_L_Boot.TIE-fighter_L_Boot
+[2017.12.03-03.05.30:672][477]LogStaticMesh: Warning: TIE-fighter_L_Boot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.30:676][477]LogLinker: Can't find file '/Game/Models/L_FootMat'
+[2017.12.03-03.05.30:676][477]LogLinker: Can't find file '/Game/Models/L_FootMat'
+[2017.12.03-03.05.30:680][477]LogMaterial: Missing cached shader map for material L_FootMat, compiling. 
+[2017.12.03-03.05.30:724][477]LogStaticMesh: Building static mesh TIE-fighter_L_Foot...
+[2017.12.03-03.05.30:731][477]LogStaticMesh: Built static mesh [0.03s] /Game/Models/TIE-fighter_L_Foot.TIE-fighter_L_Foot
+[2017.12.03-03.05.30:748][477]LogStaticMesh: Warning: TIE-fighter_L_Foot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.30:785][477]LogLinker: Can't find file '/Game/Models/L_HubDetMat'
+[2017.12.03-03.05.30:785][477]LogLinker: Can't find file '/Game/Models/L_HubDetMat'
+[2017.12.03-03.05.30:789][477]LogMaterial: Missing cached shader map for material L_HubDetMat, compiling. 
+[2017.12.03-03.05.30:837][477]LogStaticMesh: Building static mesh TIE-fighter_L_HubDet...
+[2017.12.03-03.05.31:056][477]LogStaticMesh: Built static mesh [0.23s] /Game/Models/TIE-fighter_L_HubDet.TIE-fighter_L_HubDet
+[2017.12.03-03.05.31:118][477]LogStaticMesh: Warning: TIE-fighter_L_HubDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:166][477]LogLinker: Can't find file '/Game/Models/L_MeshMat'
+[2017.12.03-03.05.31:166][477]LogLinker: Can't find file '/Game/Models/L_MeshMat'
+[2017.12.03-03.05.31:183][477]LogMaterial: Missing cached shader map for material L_MeshMat, compiling. 
+[2017.12.03-03.05.31:205][477]LogStaticMesh: Building static mesh TIE-fighter_L_Mesh...
+[2017.12.03-03.05.31:208][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_L_Mesh.TIE-fighter_L_Mesh
+[2017.12.03-03.05.31:239][477]LogLinker: Can't find file '/Game/Models/L_Pan_USMat'
+[2017.12.03-03.05.31:240][477]LogLinker: Can't find file '/Game/Models/L_Pan_USMat'
+[2017.12.03-03.05.31:260][477]LogMaterial: Missing cached shader map for material L_Pan_USMat, compiling. 
+[2017.12.03-03.05.31:303][477]LogStaticMesh: Building static mesh TIE-fighter_L_Pan_US...
+[2017.12.03-03.05.31:305][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_L_Pan_US.TIE-fighter_L_Pan_US
+[2017.12.03-03.05.31:305][477]LogStaticMesh: Warning: TIE-fighter_L_Pan_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:312][477]LogLinker: Can't find file '/Game/Models/L_RibsMat'
+[2017.12.03-03.05.31:312][477]LogLinker: Can't find file '/Game/Models/L_RibsMat'
+[2017.12.03-03.05.31:317][477]LogMaterial: Missing cached shader map for material L_RibsMat, compiling. 
+[2017.12.03-03.05.31:360][477]LogStaticMesh: Building static mesh TIE-fighter_L_Ribs...
+[2017.12.03-03.05.31:369][477]LogStaticMesh: Built static mesh [0.03s] /Game/Models/TIE-fighter_L_Ribs.TIE-fighter_L_Ribs
+[2017.12.03-03.05.31:383][477]LogStaticMesh: Warning: TIE-fighter_L_Ribs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:396][477]LogLinker: Can't find file '/Game/Models/L_Rim_USMat'
+[2017.12.03-03.05.31:396][477]LogLinker: Can't find file '/Game/Models/L_Rim_USMat'
+[2017.12.03-03.05.31:400][477]LogMaterial: Missing cached shader map for material L_Rim_USMat, compiling. 
+[2017.12.03-03.05.31:437][477]LogStaticMesh: Building static mesh TIE-fighter_L_Rim_US...
+[2017.12.03-03.05.31:440][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_L_Rim_US.TIE-fighter_L_Rim_US
+[2017.12.03-03.05.31:451][477]LogStaticMesh: Warning: TIE-fighter_L_Rim_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:455][477]LogLinker: Can't find file '/Game/Models/L_SpkDetMat'
+[2017.12.03-03.05.31:455][477]LogLinker: Can't find file '/Game/Models/L_SpkDetMat'
+[2017.12.03-03.05.31:467][477]LogMaterial: Missing cached shader map for material L_SpkDetMat, compiling. 
+[2017.12.03-03.05.31:512][477]LogStaticMesh: Building static mesh TIE-fighter_L_SpkDet...
+[2017.12.03-03.05.31:564][477]LogStaticMesh: Built static mesh [0.07s] /Game/Models/TIE-fighter_L_SpkDet.TIE-fighter_L_SpkDet
+[2017.12.03-03.05.31:569][477]LogStaticMesh: Warning: TIE-fighter_L_SpkDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:580][477]LogLinker: Can't find file '/Game/Models/L_US_ArmMat'
+[2017.12.03-03.05.31:580][477]LogLinker: Can't find file '/Game/Models/L_US_ArmMat'
+[2017.12.03-03.05.31:584][477]LogMaterial: Missing cached shader map for material L_US_ArmMat, compiling. 
+[2017.12.03-03.05.31:606][477]LogStaticMesh: Building static mesh TIE-fighter_L_US_Arm...
+[2017.12.03-03.05.31:612][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_L_US_Arm.TIE-fighter_L_US_Arm
+[2017.12.03-03.05.31:620][477]LogStaticMesh: Warning: TIE-fighter_L_US_Arm has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:625][477]LogLinker: Can't find file '/Game/Models/L_US_CufMat'
+[2017.12.03-03.05.31:625][477]LogLinker: Can't find file '/Game/Models/L_US_CufMat'
+[2017.12.03-03.05.31:629][477]LogMaterial: Missing cached shader map for material L_US_CufMat, compiling. 
+[2017.12.03-03.05.31:663][477]LogStaticMesh: Building static mesh TIE-fighter_L_US_Cuf...
+[2017.12.03-03.05.31:663][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_L_US_Cuf.TIE-fighter_L_US_Cuf
+[2017.12.03-03.05.31:675][477]LogLinker: Can't find file '/Game/Models/L_US_HubMat'
+[2017.12.03-03.05.31:675][477]LogLinker: Can't find file '/Game/Models/L_US_HubMat'
+[2017.12.03-03.05.31:686][477]LogMaterial: Missing cached shader map for material L_US_HubMat, compiling. 
+[2017.12.03-03.05.31:718][477]LogStaticMesh: Building static mesh TIE-fighter_L_US_Hub...
+[2017.12.03-03.05.31:720][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_L_US_Hub.TIE-fighter_L_US_Hub
+[2017.12.03-03.05.31:742][477]LogStaticMesh: Warning: TIE-fighter_L_US_Hub has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:749][477]LogLinker: Can't find file '/Game/Models/L_US_NutMat'
+[2017.12.03-03.05.31:749][477]LogLinker: Can't find file '/Game/Models/L_US_NutMat'
+[2017.12.03-03.05.31:752][477]LogMaterial: Missing cached shader map for material L_US_NutMat, compiling. 
+[2017.12.03-03.05.31:780][477]LogStaticMesh: Building static mesh TIE-fighter_L_US_Nut...
+[2017.12.03-03.05.31:790][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_L_US_Nut.TIE-fighter_L_US_Nut
+[2017.12.03-03.05.31:794][477]LogStaticMesh: Warning: TIE-fighter_L_US_Nut has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:798][477]LogLinker: Can't find file '/Game/Models/L_Wng_USMat'
+[2017.12.03-03.05.31:799][477]LogLinker: Can't find file '/Game/Models/L_Wng_USMat'
+[2017.12.03-03.05.31:802][477]LogMaterial: Missing cached shader map for material L_Wng_USMat, compiling. 
+[2017.12.03-03.05.31:839][477]LogStaticMesh: Building static mesh TIE-fighter_L_Wng_US...
+[2017.12.03-03.05.31:848][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_L_Wng_US.TIE-fighter_L_Wng_US
+[2017.12.03-03.05.31:857][477]LogStaticMesh: Warning: TIE-fighter_L_Wng_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.31:875][477]LogLinker: Can't find file '/Game/Models/LaserTipMat'
+[2017.12.03-03.05.31:875][477]LogLinker: Can't find file '/Game/Models/LaserTipMat'
+[2017.12.03-03.05.31:893][477]LogMaterial: Missing cached shader map for material LaserTipMat, compiling. 
+[2017.12.03-03.05.31:933][477]LogStaticMesh: Building static mesh TIE-fighter_LaserTip...
+[2017.12.03-03.05.31:937][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_LaserTip.TIE-fighter_LaserTip
+[2017.12.03-03.05.31:956][477]LogLinker: Can't find file '/Game/Models/MainHullMat'
+[2017.12.03-03.05.31:956][477]LogLinker: Can't find file '/Game/Models/MainHullMat'
+[2017.12.03-03.05.31:976][477]LogMaterial: Missing cached shader map for material MainHullMat, compiling. 
+[2017.12.03-03.05.32:002][477]LogStaticMesh: Building static mesh TIE-fighter_MainHull...
+[2017.12.03-03.05.32:015][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_MainHull.TIE-fighter_MainHull
+[2017.12.03-03.05.32:048][477]LogLinker: Can't find file '/Game/Models/R_BootMat'
+[2017.12.03-03.05.32:049][477]LogLinker: Can't find file '/Game/Models/R_BootMat'
+[2017.12.03-03.05.32:060][477]LogMaterial: Missing cached shader map for material R_BootMat, compiling. 
+[2017.12.03-03.05.32:085][477]LogStaticMesh: Building static mesh TIE-fighter_R_Boot...
+[2017.12.03-03.05.32:104][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_R_Boot.TIE-fighter_R_Boot
+[2017.12.03-03.05.32:112][477]LogStaticMesh: Warning: TIE-fighter_R_Boot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:133][477]LogLinker: Can't find file '/Game/Models/R_FootMat'
+[2017.12.03-03.05.32:134][477]LogLinker: Can't find file '/Game/Models/R_FootMat'
+[2017.12.03-03.05.32:152][477]LogMaterial: Missing cached shader map for material R_FootMat, compiling. 
+[2017.12.03-03.05.32:175][477]LogStaticMesh: Building static mesh TIE-fighter_R_Foot...
+[2017.12.03-03.05.32:185][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_Foot.TIE-fighter_R_Foot
+[2017.12.03-03.05.32:190][477]LogStaticMesh: Warning: TIE-fighter_R_Foot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:215][477]LogLinker: Can't find file '/Game/Models/R_HubDetMat'
+[2017.12.03-03.05.32:216][477]LogLinker: Can't find file '/Game/Models/R_HubDetMat'
+[2017.12.03-03.05.32:220][477]LogMaterial: Missing cached shader map for material R_HubDetMat, compiling. 
+[2017.12.03-03.05.32:276][477]LogStaticMesh: Building static mesh TIE-fighter_R_HubDet...
+[2017.12.03-03.05.32:501][477]LogStaticMesh: Built static mesh [0.25s] /Game/Models/TIE-fighter_R_HubDet.TIE-fighter_R_HubDet
+[2017.12.03-03.05.32:526][477]LogStaticMesh: Warning: TIE-fighter_R_HubDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:532][477]LogLinker: Can't find file '/Game/Models/R_MeshMat'
+[2017.12.03-03.05.32:532][477]LogLinker: Can't find file '/Game/Models/R_MeshMat'
+[2017.12.03-03.05.32:549][477]LogMaterial: Missing cached shader map for material R_MeshMat, compiling. 
+[2017.12.03-03.05.32:577][477]LogStaticMesh: Building static mesh TIE-fighter_R_Mesh...
+[2017.12.03-03.05.32:581][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_Mesh.TIE-fighter_R_Mesh
+[2017.12.03-03.05.32:606][477]LogLinker: Can't find file '/Game/Models/R_Pan_USMat'
+[2017.12.03-03.05.32:606][477]LogLinker: Can't find file '/Game/Models/R_Pan_USMat'
+[2017.12.03-03.05.32:610][477]LogMaterial: Missing cached shader map for material R_Pan_USMat, compiling. 
+[2017.12.03-03.05.32:636][477]LogStaticMesh: Building static mesh TIE-fighter_R_Pan_US...
+[2017.12.03-03.05.32:637][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_Pan_US.TIE-fighter_R_Pan_US
+[2017.12.03-03.05.32:649][477]LogStaticMesh: Warning: TIE-fighter_R_Pan_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:666][477]LogLinker: Can't find file '/Game/Models/R_RibsMat'
+[2017.12.03-03.05.32:666][477]LogLinker: Can't find file '/Game/Models/R_RibsMat'
+[2017.12.03-03.05.32:677][477]LogMaterial: Missing cached shader map for material R_RibsMat, compiling. 
+[2017.12.03-03.05.32:698][477]LogStaticMesh: Building static mesh TIE-fighter_R_Ribs...
+[2017.12.03-03.05.32:707][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_Ribs.TIE-fighter_R_Ribs
+[2017.12.03-03.05.32:715][477]LogStaticMesh: Warning: TIE-fighter_R_Ribs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:719][477]LogLinker: Can't find file '/Game/Models/R_Rim_USMat'
+[2017.12.03-03.05.32:719][477]LogLinker: Can't find file '/Game/Models/R_Rim_USMat'
+[2017.12.03-03.05.32:751][477]LogMaterial: Missing cached shader map for material R_Rim_USMat, compiling. 
+[2017.12.03-03.05.32:779][477]LogStaticMesh: Building static mesh TIE-fighter_R_Rim_US...
+[2017.12.03-03.05.32:781][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_Rim_US.TIE-fighter_R_Rim_US
+[2017.12.03-03.05.32:792][477]LogStaticMesh: Warning: TIE-fighter_R_Rim_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:806][477]LogLinker: Can't find file '/Game/Models/R_SpkDetMat'
+[2017.12.03-03.05.32:806][477]LogLinker: Can't find file '/Game/Models/R_SpkDetMat'
+[2017.12.03-03.05.32:811][477]LogMaterial: Missing cached shader map for material R_SpkDetMat, compiling. 
+[2017.12.03-03.05.32:836][477]LogStaticMesh: Building static mesh TIE-fighter_R_SpkDet...
+[2017.12.03-03.05.32:863][477]LogStaticMesh: Built static mesh [0.03s] /Game/Models/TIE-fighter_R_SpkDet.TIE-fighter_R_SpkDet
+[2017.12.03-03.05.32:868][477]LogStaticMesh: Warning: TIE-fighter_R_SpkDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:880][477]LogLinker: Can't find file '/Game/Models/R_US_ArmMat'
+[2017.12.03-03.05.32:880][477]LogLinker: Can't find file '/Game/Models/R_US_ArmMat'
+[2017.12.03-03.05.32:884][477]LogMaterial: Missing cached shader map for material R_US_ArmMat, compiling. 
+[2017.12.03-03.05.32:911][477]LogStaticMesh: Building static mesh TIE-fighter_R_US_Arm...
+[2017.12.03-03.05.32:914][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_US_Arm.TIE-fighter_R_US_Arm
+[2017.12.03-03.05.32:930][477]LogLinker: Can't find file '/Game/Models/R_US_CufMat'
+[2017.12.03-03.05.32:930][477]LogLinker: Can't find file '/Game/Models/R_US_CufMat'
+[2017.12.03-03.05.32:933][477]LogMaterial: Missing cached shader map for material R_US_CufMat, compiling. 
+[2017.12.03-03.05.32:953][477]LogStaticMesh: Building static mesh TIE-fighter_R_US_Cuf...
+[2017.12.03-03.05.32:954][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_R_US_Cuf.TIE-fighter_R_US_Cuf
+[2017.12.03-03.05.32:960][477]LogLinker: Can't find file '/Game/Models/R_US_HubMat'
+[2017.12.03-03.05.32:960][477]LogLinker: Can't find file '/Game/Models/R_US_HubMat'
+[2017.12.03-03.05.32:964][477]LogMaterial: Missing cached shader map for material R_US_HubMat, compiling. 
+[2017.12.03-03.05.32:985][477]LogStaticMesh: Building static mesh TIE-fighter_R_US_Hub...
+[2017.12.03-03.05.32:986][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_R_US_Hub.TIE-fighter_R_US_Hub
+[2017.12.03-03.05.32:987][477]LogStaticMesh: Warning: TIE-fighter_R_US_Hub has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.32:993][477]LogLinker: Can't find file '/Game/Models/R_US_NutMat'
+[2017.12.03-03.05.32:993][477]LogLinker: Can't find file '/Game/Models/R_US_NutMat'
+[2017.12.03-03.05.33:016][477]LogMaterial: Missing cached shader map for material R_US_NutMat, compiling. 
+[2017.12.03-03.05.33:039][477]LogStaticMesh: Building static mesh TIE-fighter_R_US_Nut...
+[2017.12.03-03.05.33:048][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_R_US_Nut.TIE-fighter_R_US_Nut
+[2017.12.03-03.05.33:059][477]LogStaticMesh: Warning: TIE-fighter_R_US_Nut has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.33:086][477]LogLinker: Can't find file '/Game/Models/R_Wng_USMat'
+[2017.12.03-03.05.33:086][477]LogLinker: Can't find file '/Game/Models/R_Wng_USMat'
+[2017.12.03-03.05.33:099][477]LogMaterial: Missing cached shader map for material R_Wng_USMat, compiling. 
+[2017.12.03-03.05.33:158][477]LogStaticMesh: Building static mesh TIE-fighter_R_Wng_US...
+[2017.12.03-03.05.33:170][477]LogStaticMesh: Built static mesh [0.04s] /Game/Models/TIE-fighter_R_Wng_US.TIE-fighter_R_Wng_US
+[2017.12.03-03.05.33:182][477]LogStaticMesh: Warning: TIE-fighter_R_Wng_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.33:196][477]LogLinker: Can't find file '/Game/Models/SeamRimsMat'
+[2017.12.03-03.05.33:197][477]LogLinker: Can't find file '/Game/Models/SeamRimsMat'
+[2017.12.03-03.05.33:201][477]LogMaterial: Missing cached shader map for material SeamRimsMat, compiling. 
+[2017.12.03-03.05.33:250][477]LogStaticMesh: Building static mesh TIE-fighter_SeamRims...
+[2017.12.03-03.05.33:388][477]LogStaticMesh: Built static mesh [0.14s] /Game/Models/TIE-fighter_SeamRims.TIE-fighter_SeamRims
+[2017.12.03-03.05.33:434][477]LogStaticMesh: Warning: TIE-fighter_SeamRims has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.33:442][477]LogLinker: Can't find file '/Game/Models/Tp_HatchMat'
+[2017.12.03-03.05.33:442][477]LogLinker: Can't find file '/Game/Models/Tp_HatchMat'
+[2017.12.03-03.05.33:446][477]LogMaterial: Missing cached shader map for material Tp_HatchMat, compiling. 
+[2017.12.03-03.05.33:503][477]LogStaticMesh: Building static mesh TIE-fighter_Tp_Hatch...
+[2017.12.03-03.05.33:515][477]LogStaticMesh: Built static mesh [0.02s] /Game/Models/TIE-fighter_Tp_Hatch.TIE-fighter_Tp_Hatch
+[2017.12.03-03.05.33:518][477]LogStaticMesh: Warning: TIE-fighter_Tp_Hatch has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.05.33:523][477]LogLinker: Can't find file '/Game/Models/TpH_DetMat'
+[2017.12.03-03.05.33:524][477]LogLinker: Can't find file '/Game/Models/TpH_DetMat'
+[2017.12.03-03.05.33:549][477]LogMaterial: Missing cached shader map for material TpH_DetMat, compiling. 
+[2017.12.03-03.05.33:568][477]LogStaticMesh: Building static mesh TIE-fighter_TpH_Det...
+[2017.12.03-03.05.33:569][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_TpH_Det.TIE-fighter_TpH_Det
+[2017.12.03-03.05.33:591][477]LogLinker: Can't find file '/Game/Models/TpH_GlasMat'
+[2017.12.03-03.05.33:592][477]LogLinker: Can't find file '/Game/Models/TpH_GlasMat'
+[2017.12.03-03.05.33:596][477]LogMaterial: Missing cached shader map for material TpH_GlasMat, compiling. 
+[2017.12.03-03.05.33:629][477]LogStaticMesh: Building static mesh TIE-fighter_TpH_Glas...
+[2017.12.03-03.05.33:629][477]LogStaticMesh: Built static mesh [0.01s] /Game/Models/TIE-fighter_TpH_Glas.TIE-fighter_TpH_Glas
+[2017.12.03-03.05.33:640][477]LogLinker: Can't find file '/Game/Models/WindscrnMat'
+[2017.12.03-03.05.33:640][477]LogLinker: Can't find file '/Game/Models/WindscrnMat'
+[2017.12.03-03.05.33:644][477]LogMaterial: Missing cached shader map for material WindscrnMat, compiling. 
+[2017.12.03-03.05.33:662][477]LogStaticMesh: Building static mesh TIE-fighter_Windscrn...
+[2017.12.03-03.05.33:662][477]LogStaticMesh: Built static mesh [0.00s] /Game/Models/TIE-fighter_Windscrn.TIE-fighter_Windscrn
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_Bak_Hatc has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_Bulkhead has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_Canopy has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_HulBottm has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_Boot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_Foot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_HubDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_Pan_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_Ribs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_Rim_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_SpkDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_US_Arm has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_US_Hub has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:727][477]FBXImport: Warning: TIE-fighter_L_US_Nut has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_L_Wng_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_Boot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_Foot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_HubDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_Pan_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_Ribs has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_Rim_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_SpkDet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_US_Hub has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_US_Nut has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_R_Wng_US has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_SeamRims has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: TIE-fighter_Tp_Hatch has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.05.33:728][477]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.12.03-03.06.08:577][644]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:87).
+[2017.12.03-03.07.20:753][738]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Descargas Chrome/TIE-fighter.obj)
+[2017.12.03-03.07.20:779][738]LogFbx: Loading FBX Scene from ../../../../../../Descargas Chrome/TIE-fighter.obj
+[2017.12.03-03.07.21:354][738]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-03.07.39:133][738]LogFbx: Loading FBX Scene from ../../../../../../Descargas Chrome/TIE-fighter.obj
+[2017.12.03-03.07.39:713][738]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.03-03.07.39:718][738]LogMaterial: Missing cached shader map for material Bak_HatcMat, compiling. 
+[2017.12.03-03.07.39:739][738]LogMaterial: Missing cached shader map for material Bak_HdetMat, compiling. 
+[2017.12.03-03.07.39:769][738]LogMaterial: Missing cached shader map for material BakHglasMat, compiling. 
+[2017.12.03-03.07.39:800][738]LogMaterial: Missing cached shader map for material BakHringMat, compiling. 
+[2017.12.03-03.07.39:827][738]LogMaterial: Missing cached shader map for material BakPanlsMat, compiling. 
+[2017.12.03-03.07.39:847][738]LogMaterial: Missing cached shader map for material BulkheadMat, compiling. 
+[2017.12.03-03.07.39:868][738]LogMaterial: Missing cached shader map for material CanopyMat, compiling. 
+[2017.12.03-03.07.39:899][738]LogMaterial: Missing cached shader map for material CanoRingMat, compiling. 
+[2017.12.03-03.07.39:940][738]LogMaterial: Missing cached shader map for material EnginGloMat, compiling. 
+[2017.12.03-03.07.39:970][738]LogMaterial: Missing cached shader map for material Hinge_USMat, compiling. 
+[2017.12.03-03.07.39:999][738]LogMaterial: Missing cached shader map for material HulBottmMat, compiling. 
+[2017.12.03-03.07.40:027][738]LogMaterial: Missing cached shader map for material HulPlatsMat, compiling. 
+[2017.12.03-03.07.40:060][738]LogMaterial: Missing cached shader map for material HulTensnMat, compiling. 
+[2017.12.03-03.07.40:084][738]LogMaterial: Missing cached shader map for material L_BootMat, compiling. 
+[2017.12.03-03.07.40:108][738]LogMaterial: Missing cached shader map for material L_FootMat, compiling. 
+[2017.12.03-03.07.40:132][738]LogMaterial: Missing cached shader map for material L_HubDetMat, compiling. 
+[2017.12.03-03.07.40:165][738]LogMaterial: Missing cached shader map for material L_MeshMat, compiling. 
+[2017.12.03-03.07.40:189][738]LogMaterial: Missing cached shader map for material L_Pan_USMat, compiling. 
+[2017.12.03-03.07.40:219][738]LogMaterial: Missing cached shader map for material L_RibsMat, compiling. 
+[2017.12.03-03.07.40:240][738]LogMaterial: Missing cached shader map for material L_Rim_USMat, compiling. 
+[2017.12.03-03.07.40:262][738]LogMaterial: Missing cached shader map for material L_SpkDetMat, compiling. 
+[2017.12.03-03.07.40:287][738]LogMaterial: Missing cached shader map for material L_US_ArmMat, compiling. 
+[2017.12.03-03.07.40:316][738]LogMaterial: Missing cached shader map for material L_US_CufMat, compiling. 
+[2017.12.03-03.07.40:340][738]LogMaterial: Missing cached shader map for material L_US_HubMat, compiling. 
+[2017.12.03-03.07.40:361][738]LogMaterial: Missing cached shader map for material L_US_NutMat, compiling. 
+[2017.12.03-03.07.40:393][738]LogMaterial: Missing cached shader map for material L_Wng_USMat, compiling. 
+[2017.12.03-03.07.40:415][738]LogMaterial: Missing cached shader map for material LaserTipMat, compiling. 
+[2017.12.03-03.07.40:441][738]LogMaterial: Missing cached shader map for material MainHullMat, compiling. 
+[2017.12.03-03.07.40:467][738]LogMaterial: Missing cached shader map for material R_BootMat, compiling. 
+[2017.12.03-03.07.40:488][738]LogMaterial: Missing cached shader map for material R_FootMat, compiling. 
+[2017.12.03-03.07.40:510][738]LogMaterial: Missing cached shader map for material R_HubDetMat, compiling. 
+[2017.12.03-03.07.40:545][738]LogMaterial: Missing cached shader map for material R_MeshMat, compiling. 
+[2017.12.03-03.07.40:568][738]LogMaterial: Missing cached shader map for material R_Pan_USMat, compiling. 
+[2017.12.03-03.07.40:591][738]LogMaterial: Missing cached shader map for material R_RibsMat, compiling. 
+[2017.12.03-03.07.40:621][738]LogMaterial: Missing cached shader map for material R_Rim_USMat, compiling. 
+[2017.12.03-03.07.40:660][738]LogMaterial: Missing cached shader map for material R_SpkDetMat, compiling. 
+[2017.12.03-03.07.40:694][738]LogMaterial: Missing cached shader map for material R_US_ArmMat, compiling. 
+[2017.12.03-03.07.40:716][738]LogMaterial: Missing cached shader map for material R_US_CufMat, compiling. 
+[2017.12.03-03.07.40:738][738]LogMaterial: Missing cached shader map for material R_US_HubMat, compiling. 
+[2017.12.03-03.07.40:759][738]LogMaterial: Missing cached shader map for material R_US_NutMat, compiling. 
+[2017.12.03-03.07.40:780][738]LogMaterial: Missing cached shader map for material R_Wng_USMat, compiling. 
+[2017.12.03-03.07.40:801][738]LogMaterial: Missing cached shader map for material SeamRimsMat, compiling. 
+[2017.12.03-03.07.40:825][738]LogMaterial: Missing cached shader map for material Tp_HatchMat, compiling. 
+[2017.12.03-03.07.40:889][738]LogMaterial: Missing cached shader map for material TpH_DetMat, compiling. 
+[2017.12.03-03.07.40:921][738]LogMaterial: Missing cached shader map for material TpH_GlasMat, compiling. 
+[2017.12.03-03.07.40:967][738]LogMaterial: Missing cached shader map for material WindscrnMat, compiling. 
+[2017.12.03-03.07.41:080][738]LogStaticMesh: Building static mesh TIE-fighter...
+[2017.12.03-03.07.42:035][738]LogStaticMesh: Built static mesh [0.96s] /Game/Models/TIE-fighter.TIE-fighter
+[2017.12.03-03.07.42:276][738]LogStaticMesh: Warning: TIE-fighter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.03-03.07.42:344][738]FBXImport: Warning: TIE-fighter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.03-03.08.54:181][654]LogActorFactory: Actor Factory created TIE-fighter
+[2017.12.03-03.08.55:795][811]LogActorFactory: Actor Factory created TIE-fighter
+[2017.12.03-03.14.14:304][286]LogSlate: Took 0.000549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.03-03.14.23:421][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battleground" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Maps/Battleground_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.03-03.14.23:475][354]LogSavePackage: Save=47.43ms
+[2017.12.03-03.14.23:475][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Battleground_Auto1EA0850DE47518A81C37EF485F565A828.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Maps/Battleground_Auto1.umap'
+[2017.12.03-03.14.23:476][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Maps/Battleground_Auto1.umap
+[2017.12.03-03.14.23:478][354]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Battleground' took 0.106
+[2017.12.03-03.14.23:478][354]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.106
+[2017.12.03-03.14.23:481][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TIE-fighter] ([1] browsable assets)...
+[2017.12.03-03.14.23:510][354]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/TIE-fighter.TIE-fighter]
+[2017.12.03-03.14.23:510][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TIE-fighter]
+[2017.12.03-03.14.23:510][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TIE-fighter" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TIE-fighter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:582][354]LogSavePackage: Save=70.40ms
+[2017.12.03-03.14.23:582][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/TIE-fighter_Auto1CA58CE9045FD19160BAC0BBBBDC2DF90.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TIE-fighter_Auto1.uasset'
+[2017.12.03-03.14.23:583][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TIE-fighter_Auto1.uasset
+[2017.12.03-03.14.23:584][354]LogExec: Warning: Missing filename
+[2017.12.03-03.14.23:585][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bak_HatcMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:601][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Bak_HatcMat.Bak_HatcMat]
+[2017.12.03-03.14.23:601][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bak_HatcMat]
+[2017.12.03-03.14.23:601][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bak_HatcMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Bak_HatcMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:622][354]LogSavePackage: Save=19.58ms
+[2017.12.03-03.14.23:622][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Bak_HatcMat_Auto15F2E7DCF48C016C750F3CB81CB2AD3DF.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Bak_HatcMat_Auto1.uasset'
+[2017.12.03-03.14.23:623][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Bak_HatcMat_Auto1.uasset
+[2017.12.03-03.14.23:624][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bak_HdetMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:640][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Bak_HdetMat.Bak_HdetMat]
+[2017.12.03-03.14.23:640][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bak_HdetMat]
+[2017.12.03-03.14.23:640][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bak_HdetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Bak_HdetMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:652][354]LogSavePackage: Save=10.56ms
+[2017.12.03-03.14.23:652][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Bak_HdetMat_Auto189614DF94ED478866E682792F5C57CC6.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Bak_HdetMat_Auto1.uasset'
+[2017.12.03-03.14.23:653][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Bak_HdetMat_Auto1.uasset
+[2017.12.03-03.14.23:654][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BakHglasMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:670][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/BakHglasMat.BakHglasMat]
+[2017.12.03-03.14.23:670][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BakHglasMat]
+[2017.12.03-03.14.23:670][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BakHglasMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakHglasMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:684][354]LogSavePackage: Save=11.58ms
+[2017.12.03-03.14.23:684][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BakHglasMat_Auto1213581724B4FED7D091923923A5898B9.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakHglasMat_Auto1.uasset'
+[2017.12.03-03.14.23:685][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakHglasMat_Auto1.uasset
+[2017.12.03-03.14.23:686][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BakHringMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:702][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/BakHringMat.BakHringMat]
+[2017.12.03-03.14.23:702][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BakHringMat]
+[2017.12.03-03.14.23:702][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BakHringMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakHringMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:713][354]LogSavePackage: Save=10.45ms
+[2017.12.03-03.14.23:713][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BakHringMat_Auto16342675A4AD939F20FC5F2B4DA29D64E.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakHringMat_Auto1.uasset'
+[2017.12.03-03.14.23:714][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakHringMat_Auto1.uasset
+[2017.12.03-03.14.23:715][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BakPanlsMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:731][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/BakPanlsMat.BakPanlsMat]
+[2017.12.03-03.14.23:731][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BakPanlsMat]
+[2017.12.03-03.14.23:731][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BakPanlsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakPanlsMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:743][354]LogSavePackage: Save=10.51ms
+[2017.12.03-03.14.23:743][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BakPanlsMat_Auto1B11F68A744E49FCE88E4C988BE69A5D2.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakPanlsMat_Auto1.uasset'
+[2017.12.03-03.14.23:744][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BakPanlsMat_Auto1.uasset
+[2017.12.03-03.14.23:745][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BulkheadMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:761][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/BulkheadMat.BulkheadMat]
+[2017.12.03-03.14.23:761][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BulkheadMat]
+[2017.12.03-03.14.23:761][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BulkheadMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BulkheadMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:773][354]LogSavePackage: Save=10.69ms
+[2017.12.03-03.14.23:773][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BulkheadMat_Auto1B7C5F49F4CFC5D0959743991A1D84832.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BulkheadMat_Auto1.uasset'
+[2017.12.03-03.14.23:774][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/BulkheadMat_Auto1.uasset
+[2017.12.03-03.14.23:775][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/CanopyMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:790][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/CanopyMat.CanopyMat]
+[2017.12.03-03.14.23:790][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CanopyMat]
+[2017.12.03-03.14.23:790][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CanopyMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/CanopyMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:802][354]LogSavePackage: Save=10.82ms
+[2017.12.03-03.14.23:803][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/CanopyMat_Auto1E911968B4CA3FF115F8476AC29E14F22.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/CanopyMat_Auto1.uasset'
+[2017.12.03-03.14.23:803][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/CanopyMat_Auto1.uasset
+[2017.12.03-03.14.23:804][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/CanoRingMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:820][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/CanoRingMat.CanoRingMat]
+[2017.12.03-03.14.23:820][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CanoRingMat]
+[2017.12.03-03.14.23:820][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CanoRingMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/CanoRingMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:832][354]LogSavePackage: Save=10.91ms
+[2017.12.03-03.14.23:832][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/CanoRingMat_Auto1A7517469415222BB5321538EC01912B2.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/CanoRingMat_Auto1.uasset'
+[2017.12.03-03.14.23:833][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/CanoRingMat_Auto1.uasset
+[2017.12.03-03.14.23:834][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/EnginGloMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:850][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/EnginGloMat.EnginGloMat]
+[2017.12.03-03.14.23:850][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/EnginGloMat]
+[2017.12.03-03.14.23:850][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EnginGloMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/EnginGloMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:862][354]LogSavePackage: Save=10.90ms
+[2017.12.03-03.14.23:862][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/EnginGloMat_Auto10BD4578349FF51A3B419FCA4101320AF.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/EnginGloMat_Auto1.uasset'
+[2017.12.03-03.14.23:863][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/EnginGloMat_Auto1.uasset
+[2017.12.03-03.14.23:864][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Hinge_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:880][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Hinge_USMat.Hinge_USMat]
+[2017.12.03-03.14.23:880][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Hinge_USMat]
+[2017.12.03-03.14.23:880][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Hinge_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Hinge_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:894][354]LogSavePackage: Save=12.56ms
+[2017.12.03-03.14.23:894][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Hinge_USMat_Auto1DB29611C47E1F3CA3D7D2697ADB51EBD.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Hinge_USMat_Auto1.uasset'
+[2017.12.03-03.14.23:895][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Hinge_USMat_Auto1.uasset
+[2017.12.03-03.14.23:895][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/HulBottmMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:911][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/HulBottmMat.HulBottmMat]
+[2017.12.03-03.14.23:911][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/HulBottmMat]
+[2017.12.03-03.14.23:911][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/HulBottmMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulBottmMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:923][354]LogSavePackage: Save=10.67ms
+[2017.12.03-03.14.23:923][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/HulBottmMat_Auto1DFD412D046A133215AD4A1BAF0B5EFE3.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulBottmMat_Auto1.uasset'
+[2017.12.03-03.14.23:924][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulBottmMat_Auto1.uasset
+[2017.12.03-03.14.23:925][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/HulPlatsMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:940][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/HulPlatsMat.HulPlatsMat]
+[2017.12.03-03.14.23:941][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/HulPlatsMat]
+[2017.12.03-03.14.23:941][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/HulPlatsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulPlatsMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:953][354]LogSavePackage: Save=10.79ms
+[2017.12.03-03.14.23:953][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/HulPlatsMat_Auto139D573034ABD3ADB4F34B98664735D47.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulPlatsMat_Auto1.uasset'
+[2017.12.03-03.14.23:954][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulPlatsMat_Auto1.uasset
+[2017.12.03-03.14.23:954][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/HulTensnMat] ([1] browsable assets)...
+[2017.12.03-03.14.23:971][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/HulTensnMat.HulTensnMat]
+[2017.12.03-03.14.23:971][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/HulTensnMat]
+[2017.12.03-03.14.23:971][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/HulTensnMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulTensnMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.23:983][354]LogSavePackage: Save=10.76ms
+[2017.12.03-03.14.23:983][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/HulTensnMat_Auto1C8B0E275469AE9CFA6F3C39806AF3143.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulTensnMat_Auto1.uasset'
+[2017.12.03-03.14.23:984][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/HulTensnMat_Auto1.uasset
+[2017.12.03-03.14.23:985][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_BootMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:001][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_BootMat.L_BootMat]
+[2017.12.03-03.14.24:001][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_BootMat]
+[2017.12.03-03.14.24:001][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_BootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_BootMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:013][354]LogSavePackage: Save=10.87ms
+[2017.12.03-03.14.24:013][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_BootMat_Auto145556AEF4160293358D47BB6A32182E9.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_BootMat_Auto1.uasset'
+[2017.12.03-03.14.24:014][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_BootMat_Auto1.uasset
+[2017.12.03-03.14.24:014][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_FootMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:030][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_FootMat.L_FootMat]
+[2017.12.03-03.14.24:030][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_FootMat]
+[2017.12.03-03.14.24:030][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_FootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_FootMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:042][354]LogSavePackage: Save=10.73ms
+[2017.12.03-03.14.24:042][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_FootMat_Auto1D824B0A44B2F26BDCE305898EAA09B99.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_FootMat_Auto1.uasset'
+[2017.12.03-03.14.24:043][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_FootMat_Auto1.uasset
+[2017.12.03-03.14.24:044][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_HubDetMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:060][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_HubDetMat.L_HubDetMat]
+[2017.12.03-03.14.24:060][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_HubDetMat]
+[2017.12.03-03.14.24:060][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_HubDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_HubDetMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:072][354]LogSavePackage: Save=10.62ms
+[2017.12.03-03.14.24:072][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_HubDetMat_Auto164776F904C080C21636578A8DE619EF5.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_HubDetMat_Auto1.uasset'
+[2017.12.03-03.14.24:073][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_HubDetMat_Auto1.uasset
+[2017.12.03-03.14.24:074][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_MeshMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:090][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_MeshMat.L_MeshMat]
+[2017.12.03-03.14.24:090][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_MeshMat]
+[2017.12.03-03.14.24:091][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_MeshMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_MeshMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:103][354]LogSavePackage: Save=10.82ms
+[2017.12.03-03.14.24:103][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_MeshMat_Auto1A8FFC1394A0A7CB88A9C129D14267247.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_MeshMat_Auto1.uasset'
+[2017.12.03-03.14.24:104][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_MeshMat_Auto1.uasset
+[2017.12.03-03.14.24:105][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_Pan_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:120][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_Pan_USMat.L_Pan_USMat]
+[2017.12.03-03.14.24:120][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_Pan_USMat]
+[2017.12.03-03.14.24:121][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_Pan_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Pan_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:132][354]LogSavePackage: Save=10.69ms
+[2017.12.03-03.14.24:132][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_Pan_USMat_Auto12F7027DE49E473535255B2A0386AF808.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Pan_USMat_Auto1.uasset'
+[2017.12.03-03.14.24:133][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Pan_USMat_Auto1.uasset
+[2017.12.03-03.14.24:134][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_RibsMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:150][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_RibsMat.L_RibsMat]
+[2017.12.03-03.14.24:150][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_RibsMat]
+[2017.12.03-03.14.24:150][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_RibsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_RibsMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:162][354]LogSavePackage: Save=10.78ms
+[2017.12.03-03.14.24:162][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_RibsMat_Auto1D53441D0450E0DCE7CA6CCA31CD426DF.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_RibsMat_Auto1.uasset'
+[2017.12.03-03.14.24:163][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_RibsMat_Auto1.uasset
+[2017.12.03-03.14.24:164][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_Rim_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:180][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_Rim_USMat.L_Rim_USMat]
+[2017.12.03-03.14.24:180][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_Rim_USMat]
+[2017.12.03-03.14.24:180][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_Rim_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Rim_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:192][354]LogSavePackage: Save=10.85ms
+[2017.12.03-03.14.24:192][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_Rim_USMat_Auto167D7CF9843D00618C2361CB32C30EDE8.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Rim_USMat_Auto1.uasset'
+[2017.12.03-03.14.24:193][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Rim_USMat_Auto1.uasset
+[2017.12.03-03.14.24:194][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_SpkDetMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:210][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_SpkDetMat.L_SpkDetMat]
+[2017.12.03-03.14.24:210][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_SpkDetMat]
+[2017.12.03-03.14.24:210][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_SpkDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_SpkDetMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:221][354]LogSavePackage: Save=10.62ms
+[2017.12.03-03.14.24:222][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_SpkDetMat_Auto1B0D13A6F48D221667418E28AFD7C6495.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_SpkDetMat_Auto1.uasset'
+[2017.12.03-03.14.24:222][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_SpkDetMat_Auto1.uasset
+[2017.12.03-03.14.24:223][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_US_ArmMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:239][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_US_ArmMat.L_US_ArmMat]
+[2017.12.03-03.14.24:239][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_US_ArmMat]
+[2017.12.03-03.14.24:239][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_ArmMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_ArmMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:251][354]LogSavePackage: Save=10.67ms
+[2017.12.03-03.14.24:251][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_ArmMat_Auto132FE04CA4A2FF3DAA1E8FC8694C012BA.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_ArmMat_Auto1.uasset'
+[2017.12.03-03.14.24:252][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_ArmMat_Auto1.uasset
+[2017.12.03-03.14.24:252][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_US_CufMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:268][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_US_CufMat.L_US_CufMat]
+[2017.12.03-03.14.24:268][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_US_CufMat]
+[2017.12.03-03.14.24:268][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_CufMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_CufMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:280][354]LogSavePackage: Save=10.80ms
+[2017.12.03-03.14.24:280][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_CufMat_Auto1FA7AC0CB4033E21230DB538F0F77A74A.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_CufMat_Auto1.uasset'
+[2017.12.03-03.14.24:281][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_CufMat_Auto1.uasset
+[2017.12.03-03.14.24:282][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_US_HubMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:297][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_US_HubMat.L_US_HubMat]
+[2017.12.03-03.14.24:297][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_US_HubMat]
+[2017.12.03-03.14.24:298][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_HubMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_HubMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:310][354]LogSavePackage: Save=10.89ms
+[2017.12.03-03.14.24:310][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_HubMat_Auto11D4A2E1940AF7FA38C075BB50BCE3B53.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_HubMat_Auto1.uasset'
+[2017.12.03-03.14.24:312][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_HubMat_Auto1.uasset
+[2017.12.03-03.14.24:312][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_US_NutMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:328][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_US_NutMat.L_US_NutMat]
+[2017.12.03-03.14.24:328][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_US_NutMat]
+[2017.12.03-03.14.24:328][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_NutMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_NutMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:340][354]LogSavePackage: Save=10.72ms
+[2017.12.03-03.14.24:340][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_NutMat_Auto1F96226214A3A400B529DABB9F00E44EA.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_NutMat_Auto1.uasset'
+[2017.12.03-03.14.24:341][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_US_NutMat_Auto1.uasset
+[2017.12.03-03.14.24:341][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/L_Wng_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:357][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/L_Wng_USMat.L_Wng_USMat]
+[2017.12.03-03.14.24:357][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/L_Wng_USMat]
+[2017.12.03-03.14.24:357][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_Wng_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Wng_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:369][354]LogSavePackage: Save=10.98ms
+[2017.12.03-03.14.24:369][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_Wng_USMat_Auto1D447472F4ABF130AF0CA849C26AD6689.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Wng_USMat_Auto1.uasset'
+[2017.12.03-03.14.24:370][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/L_Wng_USMat_Auto1.uasset
+[2017.12.03-03.14.24:371][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/LaserTipMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:387][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/LaserTipMat.LaserTipMat]
+[2017.12.03-03.14.24:387][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/LaserTipMat]
+[2017.12.03-03.14.24:387][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/LaserTipMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/LaserTipMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:399][354]LogSavePackage: Save=10.71ms
+[2017.12.03-03.14.24:399][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/LaserTipMat_Auto175A4CB6D4CCD1B9D2EF920AF00F69BFA.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/LaserTipMat_Auto1.uasset'
+[2017.12.03-03.14.24:400][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/LaserTipMat_Auto1.uasset
+[2017.12.03-03.14.24:401][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/MainHullMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:416][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/MainHullMat.MainHullMat]
+[2017.12.03-03.14.24:416][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/MainHullMat]
+[2017.12.03-03.14.24:416][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/MainHullMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/MainHullMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:448][354]LogSavePackage: Save=30.29ms
+[2017.12.03-03.14.24:448][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/MainHullMat_Auto115B000424E60A2C7CA2901A7EBEA9384.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/MainHullMat_Auto1.uasset'
+[2017.12.03-03.14.24:449][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/MainHullMat_Auto1.uasset
+[2017.12.03-03.14.24:450][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_BootMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:466][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_BootMat.R_BootMat]
+[2017.12.03-03.14.24:466][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_BootMat]
+[2017.12.03-03.14.24:466][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_BootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_BootMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:478][354]LogSavePackage: Save=11.04ms
+[2017.12.03-03.14.24:478][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_BootMat_Auto12E2762264AAF7EA3897D1B863B2137E5.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_BootMat_Auto1.uasset'
+[2017.12.03-03.14.24:479][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_BootMat_Auto1.uasset
+[2017.12.03-03.14.24:479][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_FootMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:495][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_FootMat.R_FootMat]
+[2017.12.03-03.14.24:495][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_FootMat]
+[2017.12.03-03.14.24:495][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_FootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_FootMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:509][354]LogSavePackage: Save=12.58ms
+[2017.12.03-03.14.24:509][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_FootMat_Auto12F57EFCC49146D2D6593F69047DFC6A9.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_FootMat_Auto1.uasset'
+[2017.12.03-03.14.24:510][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_FootMat_Auto1.uasset
+[2017.12.03-03.14.24:511][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_HubDetMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:527][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_HubDetMat.R_HubDetMat]
+[2017.12.03-03.14.24:527][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_HubDetMat]
+[2017.12.03-03.14.24:527][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_HubDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_HubDetMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:540][354]LogSavePackage: Save=10.83ms
+[2017.12.03-03.14.24:540][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_HubDetMat_Auto1BAC4237A40142D69079B909C34FA1F2F.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_HubDetMat_Auto1.uasset'
+[2017.12.03-03.14.24:541][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_HubDetMat_Auto1.uasset
+[2017.12.03-03.14.24:541][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_MeshMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:557][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_MeshMat.R_MeshMat]
+[2017.12.03-03.14.24:557][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_MeshMat]
+[2017.12.03-03.14.24:558][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_MeshMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_MeshMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:569][354]LogSavePackage: Save=10.78ms
+[2017.12.03-03.14.24:570][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_MeshMat_Auto1E83FBB8046AB6600C94E54A5D5593089.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_MeshMat_Auto1.uasset'
+[2017.12.03-03.14.24:570][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_MeshMat_Auto1.uasset
+[2017.12.03-03.14.24:571][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_Pan_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:587][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_Pan_USMat.R_Pan_USMat]
+[2017.12.03-03.14.24:587][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_Pan_USMat]
+[2017.12.03-03.14.24:587][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_Pan_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Pan_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:599][354]LogSavePackage: Save=10.76ms
+[2017.12.03-03.14.24:599][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_Pan_USMat_Auto14EC655DE4A7B24349BEB7FA660BEAC68.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Pan_USMat_Auto1.uasset'
+[2017.12.03-03.14.24:600][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Pan_USMat_Auto1.uasset
+[2017.12.03-03.14.24:601][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_RibsMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:617][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_RibsMat.R_RibsMat]
+[2017.12.03-03.14.24:617][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_RibsMat]
+[2017.12.03-03.14.24:617][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_RibsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_RibsMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:628][354]LogSavePackage: Save=10.72ms
+[2017.12.03-03.14.24:629][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_RibsMat_Auto1DA0BFABE49C504AC32CF929049ECF6E8.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_RibsMat_Auto1.uasset'
+[2017.12.03-03.14.24:630][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_RibsMat_Auto1.uasset
+[2017.12.03-03.14.24:631][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_Rim_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:646][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_Rim_USMat.R_Rim_USMat]
+[2017.12.03-03.14.24:647][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_Rim_USMat]
+[2017.12.03-03.14.24:647][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_Rim_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Rim_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:659][354]LogSavePackage: Save=10.80ms
+[2017.12.03-03.14.24:659][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_Rim_USMat_Auto1A20465CA41ACC62845EE4FB470840ED0.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Rim_USMat_Auto1.uasset'
+[2017.12.03-03.14.24:660][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Rim_USMat_Auto1.uasset
+[2017.12.03-03.14.24:660][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_SpkDetMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:676][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_SpkDetMat.R_SpkDetMat]
+[2017.12.03-03.14.24:676][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_SpkDetMat]
+[2017.12.03-03.14.24:676][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_SpkDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_SpkDetMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:688][354]LogSavePackage: Save=10.83ms
+[2017.12.03-03.14.24:688][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_SpkDetMat_Auto14504A46D4B4B52AD8D72B19505BCB150.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_SpkDetMat_Auto1.uasset'
+[2017.12.03-03.14.24:689][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_SpkDetMat_Auto1.uasset
+[2017.12.03-03.14.24:690][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_US_ArmMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:705][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_US_ArmMat.R_US_ArmMat]
+[2017.12.03-03.14.24:706][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_US_ArmMat]
+[2017.12.03-03.14.24:710][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_ArmMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_ArmMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:722][354]LogSavePackage: Save=10.98ms
+[2017.12.03-03.14.24:722][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_ArmMat_Auto16B98639D44264BEAFE0C5EA501A68D2F.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_ArmMat_Auto1.uasset'
+[2017.12.03-03.14.24:723][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_ArmMat_Auto1.uasset
+[2017.12.03-03.14.24:724][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_US_CufMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:739][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_US_CufMat.R_US_CufMat]
+[2017.12.03-03.14.24:739][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_US_CufMat]
+[2017.12.03-03.14.24:739][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_CufMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_CufMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:751][354]LogSavePackage: Save=10.77ms
+[2017.12.03-03.14.24:751][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_CufMat_Auto1DFBCFA294C349B15D99BEEAA18FC2898.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_CufMat_Auto1.uasset'
+[2017.12.03-03.14.24:752][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_CufMat_Auto1.uasset
+[2017.12.03-03.14.24:753][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_US_HubMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:769][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_US_HubMat.R_US_HubMat]
+[2017.12.03-03.14.24:769][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_US_HubMat]
+[2017.12.03-03.14.24:769][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_HubMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_HubMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:781][354]LogSavePackage: Save=10.66ms
+[2017.12.03-03.14.24:781][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_HubMat_Auto149ACB5B9414F997E8EC862AB819965FD.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_HubMat_Auto1.uasset'
+[2017.12.03-03.14.24:782][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_HubMat_Auto1.uasset
+[2017.12.03-03.14.24:783][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_US_NutMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:798][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_US_NutMat.R_US_NutMat]
+[2017.12.03-03.14.24:799][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_US_NutMat]
+[2017.12.03-03.14.24:799][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_NutMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_NutMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:810][354]LogSavePackage: Save=10.68ms
+[2017.12.03-03.14.24:811][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_NutMat_Auto1443D85484B438AB229CD878D048E8B18.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_NutMat_Auto1.uasset'
+[2017.12.03-03.14.24:811][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_US_NutMat_Auto1.uasset
+[2017.12.03-03.14.24:812][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/R_Wng_USMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:828][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/R_Wng_USMat.R_Wng_USMat]
+[2017.12.03-03.14.24:828][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/R_Wng_USMat]
+[2017.12.03-03.14.24:828][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_Wng_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Wng_USMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:839][354]LogSavePackage: Save=10.58ms
+[2017.12.03-03.14.24:840][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_Wng_USMat_Auto1B42ECCE0438C079E6C323C9652151B19.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Wng_USMat_Auto1.uasset'
+[2017.12.03-03.14.24:840][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/R_Wng_USMat_Auto1.uasset
+[2017.12.03-03.14.24:841][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/SeamRimsMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:857][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/SeamRimsMat.SeamRimsMat]
+[2017.12.03-03.14.24:857][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SeamRimsMat]
+[2017.12.03-03.14.24:857][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SeamRimsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/SeamRimsMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:869][354]LogSavePackage: Save=10.91ms
+[2017.12.03-03.14.24:869][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/SeamRimsMat_Auto1AE6A583D4676E04C90B8989FDD5EA9FF.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/SeamRimsMat_Auto1.uasset'
+[2017.12.03-03.14.24:871][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/SeamRimsMat_Auto1.uasset
+[2017.12.03-03.14.24:871][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Tp_HatchMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:887][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Tp_HatchMat.Tp_HatchMat]
+[2017.12.03-03.14.24:887][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Tp_HatchMat]
+[2017.12.03-03.14.24:887][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tp_HatchMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Tp_HatchMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:899][354]LogSavePackage: Save=10.78ms
+[2017.12.03-03.14.24:899][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Tp_HatchMat_Auto17E33FEBC47871D580EEC28B5B0776EDA.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Tp_HatchMat_Auto1.uasset'
+[2017.12.03-03.14.24:900][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/Tp_HatchMat_Auto1.uasset
+[2017.12.03-03.14.24:901][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TpH_DetMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:917][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TpH_DetMat.TpH_DetMat]
+[2017.12.03-03.14.24:917][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TpH_DetMat]
+[2017.12.03-03.14.24:918][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TpH_DetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TpH_DetMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:931][354]LogSavePackage: Save=11.31ms
+[2017.12.03-03.14.24:931][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/TpH_DetMat_Auto1BF4870E448DE934AF41E80A3F26E32CA.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TpH_DetMat_Auto1.uasset'
+[2017.12.03-03.14.24:932][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TpH_DetMat_Auto1.uasset
+[2017.12.03-03.14.24:932][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/TpH_GlasMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:949][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/TpH_GlasMat.TpH_GlasMat]
+[2017.12.03-03.14.24:949][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/TpH_GlasMat]
+[2017.12.03-03.14.24:949][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TpH_GlasMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TpH_GlasMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:961][354]LogSavePackage: Save=10.65ms
+[2017.12.03-03.14.24:961][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/TpH_GlasMat_Auto192FD16CD48D7E8AF344900BBDFB67232.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TpH_GlasMat_Auto1.uasset'
+[2017.12.03-03.14.24:962][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/TpH_GlasMat_Auto1.uasset
+[2017.12.03-03.14.24:962][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/WindscrnMat] ([1] browsable assets)...
+[2017.12.03-03.14.24:979][354]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/WindscrnMat.WindscrnMat]
+[2017.12.03-03.14.24:979][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/WindscrnMat]
+[2017.12.03-03.14.24:979][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WindscrnMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/WindscrnMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.03-03.14.24:991][354]LogSavePackage: Save=10.61ms
+[2017.12.03-03.14.24:991][354]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/WindscrnMat_Auto159C5F6804B822DF9EF8F15BAFBB08DBF.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/WindscrnMat_Auto1.uasset'
+[2017.12.03-03.14.24:991][354]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Autosaves/Game/Models/WindscrnMat_Auto1.uasset
+[2017.12.03-03.14.24:992][354]LogFileHelpers: Auto-saving content packages took 1.512
+[2017.12.03-03.17.20:331][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.03-03.17.21:879][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.17.45:824][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.17.46:787][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.17.47:489][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.17.47:833][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.18.46:748][761]LogSlate: Took 0.009712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.03-03.19.20:471][151]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.19.27:199][729]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.03-03.19.28:325][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.19.35:306][468]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.35:306][468]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.35:513][471]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.35:513][471]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.03-03.19.35:740][484]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.35:740][484]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.03-03.19.36:075][501]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.36:075][501]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.36:505][539]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.36:505][539]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.36:707][545]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.36:707][545]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.36:955][556]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.36:955][556]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.37:219][580]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.37:219][580]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.37:598][603]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.37:598][603]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.19.38:136][655]Cmd: TRANSACTION UNDO
+[2017.12.03-03.19.38:136][655]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.03-03.20.01:793][153]Cmd: TRANSACTION UNDO
+[2017.12.03-03.20.01:793][153]LogEditorTransaction: Undo Move Actors
+[2017.12.03-03.20.23:944][573]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.20.27:494][882]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.03-03.20.30:049][154]LogEditorViewport: Clicking Background
+[2017.12.03-03.20.30:679][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TIE-fighter)
+[2017.12.03-03.20.47:317][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Battleground" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.03-03.20.47:374][855]LogSavePackage: Save=27.67ms
+[2017.12.03-03.20.47:374][855]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BattlegroundD70DA73E4BDA17B0B48D4C886EC8C5C8.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground.umap'
+[2017.12.03-03.20.47:376][855]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Maps/Battleground.umap
+[2017.12.03-03.20.49:554][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TIE-fighter" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TIE-fighter.uasset" SILENT=true
+[2017.12.03-03.20.49:589][ 70]LogSavePackage: Save=33.37ms
+[2017.12.03-03.20.49:589][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/TIE-fighterCC911CFC41816EF9CC2CFFBE41605DA6.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TIE-fighter.uasset'
+[2017.12.03-03.20.49:591][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TIE-fighter.uasset
+[2017.12.03-03.20.49:615][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bak_HatcMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Bak_HatcMat.uasset" SILENT=true
+[2017.12.03-03.20.49:627][ 70]LogSavePackage: Save=10.56ms
+[2017.12.03-03.20.49:627][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Bak_HatcMatDB9815114007644D6ED7DB8B467B5549.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Bak_HatcMat.uasset'
+[2017.12.03-03.20.49:629][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Bak_HatcMat.uasset
+[2017.12.03-03.20.49:649][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bak_HdetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Bak_HdetMat.uasset" SILENT=true
+[2017.12.03-03.20.49:661][ 70]LogSavePackage: Save=10.61ms
+[2017.12.03-03.20.49:661][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Bak_HdetMatBB8FF8014CDAE1075AC337848B313541.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Bak_HdetMat.uasset'
+[2017.12.03-03.20.49:663][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Bak_HdetMat.uasset
+[2017.12.03-03.20.49:683][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BakHglasMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakHglasMat.uasset" SILENT=true
+[2017.12.03-03.20.49:695][ 70]LogSavePackage: Save=10.46ms
+[2017.12.03-03.20.49:695][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BakHglasMat08248C1D477BFC54344CEEAF108DE603.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakHglasMat.uasset'
+[2017.12.03-03.20.49:697][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakHglasMat.uasset
+[2017.12.03-03.20.49:717][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BakHringMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakHringMat.uasset" SILENT=true
+[2017.12.03-03.20.49:729][ 70]LogSavePackage: Save=10.69ms
+[2017.12.03-03.20.49:729][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BakHringMat9D41ED6E423F62D28E34B8A5F58CD20B.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakHringMat.uasset'
+[2017.12.03-03.20.49:731][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakHringMat.uasset
+[2017.12.03-03.20.49:756][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BakPanlsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakPanlsMat.uasset" SILENT=true
+[2017.12.03-03.20.49:768][ 70]LogSavePackage: Save=10.54ms
+[2017.12.03-03.20.49:768][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BakPanlsMat2E4D8EEE4D7BBCF1CBB7B4AD86952881.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakPanlsMat.uasset'
+[2017.12.03-03.20.49:770][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BakPanlsMat.uasset
+[2017.12.03-03.20.49:789][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BulkheadMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BulkheadMat.uasset" SILENT=true
+[2017.12.03-03.20.49:801][ 70]LogSavePackage: Save=10.76ms
+[2017.12.03-03.20.49:801][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/BulkheadMatE24D5BA54B78035837E139AC9A537B92.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BulkheadMat.uasset'
+[2017.12.03-03.20.49:804][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/BulkheadMat.uasset
+[2017.12.03-03.20.49:826][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CanopyMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/CanopyMat.uasset" SILENT=true
+[2017.12.03-03.20.49:838][ 70]LogSavePackage: Save=10.57ms
+[2017.12.03-03.20.49:838][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/CanopyMatEF887AEA4E345A8EFA8D348E4BE8831B.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/CanopyMat.uasset'
+[2017.12.03-03.20.49:841][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/CanopyMat.uasset
+[2017.12.03-03.20.49:860][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/CanoRingMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/CanoRingMat.uasset" SILENT=true
+[2017.12.03-03.20.49:872][ 70]LogSavePackage: Save=10.73ms
+[2017.12.03-03.20.49:872][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/CanoRingMat46E4A67F403BEA3ECF26F19D693700CD.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/CanoRingMat.uasset'
+[2017.12.03-03.20.49:874][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/CanoRingMat.uasset
+[2017.12.03-03.20.49:893][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/EnginGloMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/EnginGloMat.uasset" SILENT=true
+[2017.12.03-03.20.49:905][ 70]LogSavePackage: Save=10.78ms
+[2017.12.03-03.20.49:905][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/EnginGloMat20C43F4C4DC48D5F56FCE7B7843942C8.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/EnginGloMat.uasset'
+[2017.12.03-03.20.49:907][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/EnginGloMat.uasset
+[2017.12.03-03.20.49:927][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Hinge_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Hinge_USMat.uasset" SILENT=true
+[2017.12.03-03.20.49:939][ 70]LogSavePackage: Save=10.48ms
+[2017.12.03-03.20.49:939][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Hinge_USMat57DA573F4F5F3CEF70A3BAA623ADAD3C.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Hinge_USMat.uasset'
+[2017.12.03-03.20.49:941][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Hinge_USMat.uasset
+[2017.12.03-03.20.49:960][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/HulBottmMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulBottmMat.uasset" SILENT=true
+[2017.12.03-03.20.49:972][ 70]LogSavePackage: Save=10.57ms
+[2017.12.03-03.20.49:972][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/HulBottmMatD8F4E1BA447EE11994F9E2A26019DED8.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulBottmMat.uasset'
+[2017.12.03-03.20.49:974][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulBottmMat.uasset
+[2017.12.03-03.20.49:993][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/HulPlatsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulPlatsMat.uasset" SILENT=true
+[2017.12.03-03.20.50:005][ 70]LogSavePackage: Save=10.54ms
+[2017.12.03-03.20.50:005][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/HulPlatsMatA1FFBE634A182D5642EE3797D540C77D.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulPlatsMat.uasset'
+[2017.12.03-03.20.50:007][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulPlatsMat.uasset
+[2017.12.03-03.20.50:027][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/HulTensnMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulTensnMat.uasset" SILENT=true
+[2017.12.03-03.20.50:038][ 70]LogSavePackage: Save=10.57ms
+[2017.12.03-03.20.50:038][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/HulTensnMat2491E1304607E38DFD1E8DAFC2E3303E.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulTensnMat.uasset'
+[2017.12.03-03.20.50:041][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/HulTensnMat.uasset
+[2017.12.03-03.20.50:060][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_BootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_BootMat.uasset" SILENT=true
+[2017.12.03-03.20.50:072][ 70]LogSavePackage: Save=10.66ms
+[2017.12.03-03.20.50:072][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_BootMatA8640B03499A3C2B0C5E598EB69BBBE0.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_BootMat.uasset'
+[2017.12.03-03.20.50:074][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_BootMat.uasset
+[2017.12.03-03.20.50:099][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_FootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_FootMat.uasset" SILENT=true
+[2017.12.03-03.20.50:111][ 70]LogSavePackage: Save=10.50ms
+[2017.12.03-03.20.50:111][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_FootMat8D010A7F4C619601FBECCE903454952E.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_FootMat.uasset'
+[2017.12.03-03.20.50:113][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_FootMat.uasset
+[2017.12.03-03.20.50:136][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_HubDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_HubDetMat.uasset" SILENT=true
+[2017.12.03-03.20.50:148][ 70]LogSavePackage: Save=10.54ms
+[2017.12.03-03.20.50:148][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_HubDetMatAD4E9F6D47E267D12CBB6399E375C9A9.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_HubDetMat.uasset'
+[2017.12.03-03.20.50:150][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_HubDetMat.uasset
+[2017.12.03-03.20.50:169][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_MeshMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_MeshMat.uasset" SILENT=true
+[2017.12.03-03.20.50:181][ 70]LogSavePackage: Save=10.62ms
+[2017.12.03-03.20.50:181][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_MeshMatA0C935C742EC6F27C8D9CB8408E84220.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_MeshMat.uasset'
+[2017.12.03-03.20.50:183][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_MeshMat.uasset
+[2017.12.03-03.20.50:202][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_Pan_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Pan_USMat.uasset" SILENT=true
+[2017.12.03-03.20.50:214][ 70]LogSavePackage: Save=10.51ms
+[2017.12.03-03.20.50:214][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_Pan_USMat8D8F2FDF4E44CAB4102563A87BB8F1F5.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Pan_USMat.uasset'
+[2017.12.03-03.20.50:216][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Pan_USMat.uasset
+[2017.12.03-03.20.50:236][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_RibsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_RibsMat.uasset" SILENT=true
+[2017.12.03-03.20.50:248][ 70]LogSavePackage: Save=10.58ms
+[2017.12.03-03.20.50:248][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_RibsMat30B3DE6A4B3FFC2736FAEE8FD7E867A0.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_RibsMat.uasset'
+[2017.12.03-03.20.50:250][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_RibsMat.uasset
+[2017.12.03-03.20.50:269][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_Rim_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Rim_USMat.uasset" SILENT=true
+[2017.12.03-03.20.50:281][ 70]LogSavePackage: Save=10.46ms
+[2017.12.03-03.20.50:281][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_Rim_USMat5C39EB8D463F8A24D81D8EA8D0152DDB.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Rim_USMat.uasset'
+[2017.12.03-03.20.50:283][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Rim_USMat.uasset
+[2017.12.03-03.20.50:302][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_SpkDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_SpkDetMat.uasset" SILENT=true
+[2017.12.03-03.20.50:314][ 70]LogSavePackage: Save=10.49ms
+[2017.12.03-03.20.50:314][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_SpkDetMat0B239AD64125F7009C0F338F4D8ADD05.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_SpkDetMat.uasset'
+[2017.12.03-03.20.50:316][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_SpkDetMat.uasset
+[2017.12.03-03.20.50:335][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_ArmMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_ArmMat.uasset" SILENT=true
+[2017.12.03-03.20.50:347][ 70]LogSavePackage: Save=10.50ms
+[2017.12.03-03.20.50:347][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_ArmMat20A048564B97F97316504D860AAFC683.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_ArmMat.uasset'
+[2017.12.03-03.20.50:349][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_ArmMat.uasset
+[2017.12.03-03.20.50:369][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_CufMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_CufMat.uasset" SILENT=true
+[2017.12.03-03.20.50:381][ 70]LogSavePackage: Save=10.60ms
+[2017.12.03-03.20.50:381][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_CufMat824222F849608A56F5E1F89CE4282E78.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_CufMat.uasset'
+[2017.12.03-03.20.50:383][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_CufMat.uasset
+[2017.12.03-03.20.50:403][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_HubMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_HubMat.uasset" SILENT=true
+[2017.12.03-03.20.50:414][ 70]LogSavePackage: Save=10.58ms
+[2017.12.03-03.20.50:414][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_HubMat24CDC6A74AAB7C9C25356A90F3BE3227.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_HubMat.uasset'
+[2017.12.03-03.20.50:416][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_HubMat.uasset
+[2017.12.03-03.20.50:436][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_US_NutMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_NutMat.uasset" SILENT=true
+[2017.12.03-03.20.50:447][ 70]LogSavePackage: Save=10.45ms
+[2017.12.03-03.20.50:447][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_US_NutMatE9A6927841F1C8CBA0143FB3D5E375B3.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_NutMat.uasset'
+[2017.12.03-03.20.50:449][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_US_NutMat.uasset
+[2017.12.03-03.20.50:474][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/L_Wng_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Wng_USMat.uasset" SILENT=true
+[2017.12.03-03.20.50:486][ 70]LogSavePackage: Save=10.67ms
+[2017.12.03-03.20.50:486][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/L_Wng_USMat6484F4AB42364B70BD6E1F8BED053F6E.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Wng_USMat.uasset'
+[2017.12.03-03.20.50:488][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/L_Wng_USMat.uasset
+[2017.12.03-03.20.50:507][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/LaserTipMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/LaserTipMat.uasset" SILENT=true
+[2017.12.03-03.20.50:519][ 70]LogSavePackage: Save=10.49ms
+[2017.12.03-03.20.50:519][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/LaserTipMat6337A0534DDF0C010DA13A9EA8548C07.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/LaserTipMat.uasset'
+[2017.12.03-03.20.50:521][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/LaserTipMat.uasset
+[2017.12.03-03.20.50:540][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/MainHullMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/MainHullMat.uasset" SILENT=true
+[2017.12.03-03.20.50:552][ 70]LogSavePackage: Save=10.50ms
+[2017.12.03-03.20.50:552][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/MainHullMatC729BDE844EBB8AEB336EEB04C0631E6.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/MainHullMat.uasset'
+[2017.12.03-03.20.50:554][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/MainHullMat.uasset
+[2017.12.03-03.20.50:574][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_BootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_BootMat.uasset" SILENT=true
+[2017.12.03-03.20.50:586][ 70]LogSavePackage: Save=10.77ms
+[2017.12.03-03.20.50:586][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_BootMatBD4665AF4FB873AD063A0281D12C2A74.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_BootMat.uasset'
+[2017.12.03-03.20.50:588][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_BootMat.uasset
+[2017.12.03-03.20.50:607][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_FootMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_FootMat.uasset" SILENT=true
+[2017.12.03-03.20.50:619][ 70]LogSavePackage: Save=10.75ms
+[2017.12.03-03.20.50:619][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_FootMat61CC3E2F47074F0A8AD4DC9208798821.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_FootMat.uasset'
+[2017.12.03-03.20.50:621][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_FootMat.uasset
+[2017.12.03-03.20.50:640][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_HubDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_HubDetMat.uasset" SILENT=true
+[2017.12.03-03.20.50:652][ 70]LogSavePackage: Save=10.69ms
+[2017.12.03-03.20.50:652][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_HubDetMatB9B847BD43BD068C77E968AAF685AA17.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_HubDetMat.uasset'
+[2017.12.03-03.20.50:654][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_HubDetMat.uasset
+[2017.12.03-03.20.50:673][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_MeshMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_MeshMat.uasset" SILENT=true
+[2017.12.03-03.20.50:685][ 70]LogSavePackage: Save=10.48ms
+[2017.12.03-03.20.50:685][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_MeshMat42975395407589E55BA797ACFB9064FB.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_MeshMat.uasset'
+[2017.12.03-03.20.50:687][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_MeshMat.uasset
+[2017.12.03-03.20.50:707][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_Pan_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Pan_USMat.uasset" SILENT=true
+[2017.12.03-03.20.50:718][ 70]LogSavePackage: Save=10.52ms
+[2017.12.03-03.20.50:718][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_Pan_USMat893720964E12E2C86E780DA1D3266A19.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Pan_USMat.uasset'
+[2017.12.03-03.20.50:720][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Pan_USMat.uasset
+[2017.12.03-03.20.50:740][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_RibsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_RibsMat.uasset" SILENT=true
+[2017.12.03-03.20.50:751][ 70]LogSavePackage: Save=10.47ms
+[2017.12.03-03.20.50:751][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_RibsMat5B7ADDE0437CF2A9C128BB9D4C3C9549.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_RibsMat.uasset'
+[2017.12.03-03.20.50:753][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_RibsMat.uasset
+[2017.12.03-03.20.50:773][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_Rim_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Rim_USMat.uasset" SILENT=true
+[2017.12.03-03.20.50:784][ 70]LogSavePackage: Save=10.48ms
+[2017.12.03-03.20.50:784][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_Rim_USMatA3BC4F1C4AE1D2E14D50E7A20549E943.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Rim_USMat.uasset'
+[2017.12.03-03.20.50:786][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Rim_USMat.uasset
+[2017.12.03-03.20.50:806][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_SpkDetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_SpkDetMat.uasset" SILENT=true
+[2017.12.03-03.20.50:817][ 70]LogSavePackage: Save=10.51ms
+[2017.12.03-03.20.50:818][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_SpkDetMat0CF94B1442CEBECC022DE7AB0B92EFEA.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_SpkDetMat.uasset'
+[2017.12.03-03.20.50:820][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_SpkDetMat.uasset
+[2017.12.03-03.20.50:839][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_ArmMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_ArmMat.uasset" SILENT=true
+[2017.12.03-03.20.50:850][ 70]LogSavePackage: Save=10.40ms
+[2017.12.03-03.20.50:850][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_ArmMat8BD33C264A7F80CE3CC6E2AAD7DDC009.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_ArmMat.uasset'
+[2017.12.03-03.20.50:852][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_ArmMat.uasset
+[2017.12.03-03.20.50:872][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_CufMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_CufMat.uasset" SILENT=true
+[2017.12.03-03.20.50:883][ 70]LogSavePackage: Save=10.58ms
+[2017.12.03-03.20.50:883][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_CufMatA4475C1045BD9C531A7AF9958CD6D501.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_CufMat.uasset'
+[2017.12.03-03.20.50:885][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_CufMat.uasset
+[2017.12.03-03.20.50:905][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_HubMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_HubMat.uasset" SILENT=true
+[2017.12.03-03.20.50:917][ 70]LogSavePackage: Save=10.60ms
+[2017.12.03-03.20.50:917][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_HubMat55588924457504F6A7EDF5949DDDFFE9.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_HubMat.uasset'
+[2017.12.03-03.20.50:919][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_HubMat.uasset
+[2017.12.03-03.20.50:938][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_US_NutMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_NutMat.uasset" SILENT=true
+[2017.12.03-03.20.50:950][ 70]LogSavePackage: Save=10.47ms
+[2017.12.03-03.20.50:950][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_US_NutMat0BA5F85249F73F1DF1FC92A94132DC00.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_NutMat.uasset'
+[2017.12.03-03.20.50:952][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_US_NutMat.uasset
+[2017.12.03-03.20.50:971][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/R_Wng_USMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Wng_USMat.uasset" SILENT=true
+[2017.12.03-03.20.50:983][ 70]LogSavePackage: Save=10.50ms
+[2017.12.03-03.20.50:983][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/R_Wng_USMat923EEAD642E0B4736521788DF857D89D.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Wng_USMat.uasset'
+[2017.12.03-03.20.50:985][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/R_Wng_USMat.uasset
+[2017.12.03-03.20.51:004][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SeamRimsMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/SeamRimsMat.uasset" SILENT=true
+[2017.12.03-03.20.51:015][ 70]LogSavePackage: Save=10.44ms
+[2017.12.03-03.20.51:015][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/SeamRimsMatDA0D9C0F44BE148F0D4092BFD6170D77.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/SeamRimsMat.uasset'
+[2017.12.03-03.20.51:017][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/SeamRimsMat.uasset
+[2017.12.03-03.20.51:037][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Tp_HatchMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Tp_HatchMat.uasset" SILENT=true
+[2017.12.03-03.20.51:049][ 70]LogSavePackage: Save=10.43ms
+[2017.12.03-03.20.51:049][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/Tp_HatchMat70DDB5E540593078AC92388D97BB0E2B.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Tp_HatchMat.uasset'
+[2017.12.03-03.20.51:051][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/Tp_HatchMat.uasset
+[2017.12.03-03.20.51:071][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TpH_DetMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TpH_DetMat.uasset" SILENT=true
+[2017.12.03-03.20.51:082][ 70]LogSavePackage: Save=10.43ms
+[2017.12.03-03.20.51:082][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/TpH_DetMat3F4AF05940683290176094B3B9524904.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TpH_DetMat.uasset'
+[2017.12.03-03.20.51:084][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TpH_DetMat.uasset
+[2017.12.03-03.20.51:103][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/TpH_GlasMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TpH_GlasMat.uasset" SILENT=true
+[2017.12.03-03.20.51:115][ 70]LogSavePackage: Save=10.53ms
+[2017.12.03-03.20.51:115][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/TpH_GlasMatD6D29DE5462D532F500B60A604D702E0.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TpH_GlasMat.uasset'
+[2017.12.03-03.20.51:117][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/TpH_GlasMat.uasset
+[2017.12.03-03.20.51:137][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/WindscrnMat" FILE="../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/WindscrnMat.uasset" SILENT=true
+[2017.12.03-03.20.51:148][ 70]LogSavePackage: Save=10.53ms
+[2017.12.03-03.20.51:148][ 70]LogSavePackage: Moving '../../../../UEPROJECT/06_StarBattle/StarBattle/Saved/WindscrnMat31A78F2B4BFDC3391AB292A266B42C91.tmp' to '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/WindscrnMat.uasset'
+[2017.12.03-03.20.51:150][ 70]LogSavePackage: Display: Finished SavePackage ../../../../UEPROJECT/06_StarBattle/StarBattle/Content/Models/WindscrnMat.uasset
+[2017.12.03-03.20.54:614][394]Cmd: QUIT_EDITOR
+[2017.12.03-03.20.54:675][394]LogExit: Preparing to exit.
+[2017.12.03-03.20.55:018][394]LogDirectoryWatcher: A directory notification for 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Content/' was aborted.
+[2017.12.03-03.20.55:041][394]LogExit: Editor shut down
+[2017.12.03-03.20.55:046][394]LogExit: Transaction tracking system shut down
+[2017.12.03-03.20.55:182][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.03-03.20.55:182][394]LogDirectoryWatcher: A directory notification for '../../../../UEPROJECT/06_StarBattle/StarBattle/Content/' was aborted.
+[2017.12.03-03.20.55:182][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.03-03.20.55:182][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.03-03.20.55:182][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.03-03.20.55:262][394]LogExit: Object subsystem successfully closed.
+[2017.12.03-03.20.55:279][394]LogD3D11RHI: Shutdown
+[2017.12.03-03.20.55:279][394]LogD3D11RHI: CleanupD3DDevice
+[2017.12.03-03.20.55:366][394]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.03-03.20.55:378][394]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2017.12.03-03.20.55:378][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.12.03-03.20.55:378][394]LogModuleManager: Shutting down and abandoning module AddContentDialog (530)
+[2017.12.03-03.20.55:378][394]LogDirectoryWatcher: A directory notification for 'D:/Programas/programacion/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.03-03.20.55:380][394]LogModuleManager: Shutting down and abandoning module WidgetCarousel (529)
+[2017.12.03-03.20.55:380][394]LogModuleManager: Shutting down and abandoning module EditorWidgets (526)
+[2017.12.03-03.20.55:380][394]LogModuleManager: Shutting down and abandoning module CollectionManager (524)
+[2017.12.03-03.20.55:380][394]LogDirectoryWatcher: A directory notification for 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Content/Collections/' was aborted.
+[2017.12.03-03.20.55:380][394]LogDirectoryWatcher: A directory notification for 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Content/Developers/Adolfo/Collections/' was aborted.
+[2017.12.03-03.20.55:380][394]LogDirectoryWatcher: A directory notification for 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Saved/Collections/' was aborted.
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module SceneOutliner (522)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.12.03-03.20.55:381][394]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.12.03-03.20.55:382][394]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.12.03-03.20.55:382][394]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.12.03-03.20.55:382][394]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.12.03-03.20.55:382][394]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.12.03-03.20.55:382][394]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.12.03-03.20.55:382][394]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.12.03-03.20.55:400][394]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.12.03-03.20.55:401][394]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.12.03-03.20.55:441][394]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.12.03-03.20.55:442][394]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.12.03-03.20.55:442][394]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.12.03-03.20.55:442][394]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.12.03-03.20.55:442][394]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.12.03-03.20.55:442][394]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.12.03-03.20.55:443][394]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.12.03-03.20.55:598][394]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.12.03-03.20.55:599][394]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.12.03-03.20.55:600][394]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.12.03-03.20.55:602][394]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.12.03-03.20.55:602][394]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.12.03-03.20.55:602][394]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.12.03-03.20.55:602][394]LogDirectoryWatcher: A directory notification for 'D:/Programas/programacion/UEPROJECT/06_StarBattle/StarBattle/Binaries/Win64' was aborted.
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module StarBattle (262)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.03-03.20.55:603][394]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.03-03.20.55:703][394]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.03-03.20.55:803][394]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.03-03.20.55:803][394]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.03-03.20.55:803][394]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.03-03.20.55:803][394]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.03-03.20.55:803][394]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.03-03.20.55:803][394]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.03-03.20.55:805][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.03-03.20.55:805][394]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.03-03.20.55:805][394]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.03-03.20.55:805][394]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.03-03.20.55:806][394]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.03-03.20.55:807][394]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.03-03.20.55:811][394]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.03-03.20.55:811][394]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.03-03.20.55:811][394]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module LevelSequence (148)
+[2017.12.03-03.20.55:812][394]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.03-03.20.55:813][394]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.03-03.20.55:897][394]LogDerivedDataCache: Shutdown
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.03-03.20.55:897][394]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.03-03.20.55:898][394]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.03-03.20.55:899][394]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.03-03.20.55:899][394]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.03-03.20.55:899][394]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.03-03.20.55:899][394]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B73FAC40D-4865-39D7-ACA7-C6B2CF11BDAF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=8e8534ea472b7eb24f7e53a16935367e%7C07e030edc85f421dbf60b21462fb5b5a%7Cf335dfaf-8f5a-4da4-9d29-acca1cdfd5c7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.03-03.20.55:925][394]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.03-03.20.55:926][394]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.03-03.20.55:927][394]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.03-03.20.55:930][394]LogExit: Exiting.
+[2017.12.03-03.20.55:938][394]Log file closed, 12/03/17 04:20:55

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StarBattle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Programas\programacion\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Intermediate\Build\Win64\UE4Editor\Development\StarBattle\StarBattle.cpp.obj"
+"D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Intermediate\Build\Win64\UE4Editor\Development\StarBattle\StarBattleGameModeBase.cpp.obj"
+"D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Intermediate\Build\Win64\UE4Editor\Development\StarBattle\StarBattle.init.gen.cpp.obj"
+"D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Intermediate\Build\Win64\UE4Editor\Development\StarBattle\StarBattleGameModeBase.gen.cpp.obj"
+"D:\Programas\programacion\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\StarBattle\PCLaunch.rc.res"
+"D:\Programas\programacion\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-StarBattle.lib"

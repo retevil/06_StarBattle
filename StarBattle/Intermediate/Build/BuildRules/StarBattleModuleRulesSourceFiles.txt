@@ -1,0 +1,3 @@
+D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Source\StarBattle\StarBattle.Build.cs
+D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Source\StarBattle.Target.cs
+D:\Programas\programacion\UEPROJECT\06_StarBattle\StarBattle\Source\StarBattleEditor.Target.cs

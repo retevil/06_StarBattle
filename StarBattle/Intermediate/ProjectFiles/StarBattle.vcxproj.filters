@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\StarBattle.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A29DAB9A-D613-451E-9016-2C24A2DBEFA1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\StarBattle.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\StarBattleEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{E5B00F5E-9B7D-44D5-B15F-FDF37237F0AE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\StarBattle">
+			<UniqueIdentifier>{6BF1038D-65DA-460E-8ADC-EEA698223219}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\StarBattle\StarBattle.Build.cs">
+			<Filter>Source\StarBattle</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\StarBattle\StarBattle.cpp">
+			<Filter>Source\StarBattle</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\StarBattle\StarBattle.h">
+			<Filter>Source\StarBattle</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\StarBattle\StarBattleGameModeBase.cpp">
+			<Filter>Source\StarBattle</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\StarBattle\StarBattleGameModeBase.h">
+			<Filter>Source\StarBattle</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
